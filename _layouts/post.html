@@ -6,8 +6,14 @@ layout: default
 <div class="page-header">
   <h2>
     {{page.title}}
-    <small>{{page.date}}</small>
+    <small>{{page.date | date: "%d-%b-%Y"}}</small>
   </h2>
+  <div class="page-meta">
+    |
+    {% if page.categories %}<small>Categories: {{page.categories | join: ", "}}</small> | {% endif %}
+    {% if page.tags %}<small>Tags: {{ page.tags | join: ", " }}</small>{% endif %}
+    |
+  </div>
 </div>
 {{content}}
 </article>

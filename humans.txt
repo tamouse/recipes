@@ -1,18 +1,24 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+---
+---
+# SITE
+
+  URL: {{site.url}}
+  Description: {{site.description}}
+  License: CC-BY-NC-SA http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 # TEAM
 
-  tamouse, creator, tamouse
+  Author: {{site.author}}, twitter: @{{site.social.twitter}}, github: https://github.com/{{site.social.github}}
 
 # THANKS
 
-  <name>
+  All the folks on #jekyll@irc.freenode.net.
 
 # TECHNOLOGY COLOPHON
 
-  HTML5, CSS3
-  jQuery, Bootstrap, FontAwesome
-  Compass, Jekyll
-  Gulp
-  drink_up_doctor
+  Display: HTML5, CSS3, jQuery, Bootstrap, FontAwesome
+  Static Site Generation: Compass, Jekyll, Kramdown, Pygments, Gulp
+  Project Generator: drink_up_doctor
+
+
+// humanstxt.org

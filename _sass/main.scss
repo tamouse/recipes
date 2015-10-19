@@ -12,9 +12,18 @@ body {
     padding: 70px 0;
 }
 
+.post-index-title {
+    white-space: nowrap;
+    height: ceil(($font-size-h3 * 1.6));
+    overflow: hidden;
+}
 .post-excerpt {
     margin: 0 0 10px 0;
     padding: 0;
     height: 100px;
     overflow-y: hidden;
+}
+
+p.img-responsive > img {
+    @extend .img-responsive;
 }

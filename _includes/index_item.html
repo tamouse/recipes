@@ -1,5 +1,5 @@
 <h3 class="post-index-title"><a href="{{site.baseurl | append: post.url}}">{{post.title}}</a></h3>
-<div class="post-excerpt">{{post.excerpt}}</div>
+<div class="post-excerpt">{{post.excerpt | markdownify}}</div>
 <div class="post-meta">
   {% if post.date %}<small>{{post.date | date: "%d-%b-%Y"}}</small>{% endif %}
   {% if post.categories %}<small>{{post.categories}}</small>{% endif %}

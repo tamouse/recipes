@@ -1,0 +1,17 @@
+{
+  "name" : "xyz",
+  "version": "0.0.0",
+  "authors": ["tamouse"],
+  "homepage": "http://xyz.tamouse.org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.3.0",
+    "normalize.scss": "~3.0.2"
+  }
+}

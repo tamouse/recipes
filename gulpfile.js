@@ -76,7 +76,7 @@ gulp.task('serve', ['build'], function() {
 });
 
 gulp.task('jekyll-build-dist', ['css','icons','bower'], function () {
-  return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--config', '_config.yml,_baseurl.yml', '--destination', config.distDir], {stdio: 'inherit'});
+  return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--config', '_config.yml,_baseurl.yml', '--destination', config.distDir, '--full-rebuild'], {stdio: 'inherit'});
 });
 
 gulp.task('dist', ['bower', 'icons', 'css', 'jekyll-build-dist']);

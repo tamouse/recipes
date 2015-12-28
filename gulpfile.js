@@ -29,7 +29,7 @@ gulp.task('bower', function() {
 
 gulp.task('jekyll-build', ['css','icons','bower'], function (done) {
   browserSync.notify(messages.jekyllBuild);
-  return cp.spawn('bundle', ['exec', 'jekyll', 'build'], {stdio: 'inherit'})
+  return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--incremental'], {stdio: 'inherit'})
     .on('close', done);
 });
 
@@ -49,7 +49,7 @@ gulp.task('css', function() {
     style: "compressed",
     loadPath: [
       config.sassPath,
-      config.bowerDir + "/normalize.scss/",
+      config.bowerDir + "/bootstrap-sass/assets/stylesheets",
       config.bowerDir + "/fontawesome/scss"
     ],
     compass: true
@@ -72,13 +72,38 @@ gulp.task('serve', ['build'], function() {
 
   // Start a watch for rebuilds
   gulp.watch(['_sass/*.scss'], ['css'])
-  gulp.watch(['*.yml', '*.txt', '*.html', '*.md', '*.xml', 'pages/**/*.*', '_layouts/*.html', '_includes/*', '_posts/*', '_plugins/*'], ['jekyll-rebuild']);
+  gulp.watch([
+    '**',
+    '!Gemfile*',
+    '!README*',
+    '!_sass/**',
+    '!_site/**',
+    '!_dist/**',
+    '!_data/**',
+    '!assets/**',
+    '!*.json',
+    '!gulpfile.js',
+    '!bower_components/**',
+    '!node_modules/**'
+  ], ['jekyll-rebuild']);
 });
 
 gulp.task('jekyll-build-dist', ['css','icons','bower'], function () {
-  return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--config', '_config.yml,_baseurl.yml', '--destination', config.distDir, '--full-rebuild'], {stdio: 'inherit'});
+  return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--config', '_config.yml,_baseurl.yml', '--destination', config.distDir], {stdio: 'inherit'});
 });
 
 gulp.task('dist', ['bower', 'icons', 'css', 'jekyll-build-dist']);
 
 gulp.task('default', ['serve']);
+
+gulp.task('syncs3', function(){
+  return cp.spawn(
+    's3cmd', [
+      '-rP',
+      'sync',
+      '_s3_uploads/',
+      's3://tt.imageshare/blog/'
+    ],
+    {stdio: 'inherit'}
+  );
+});

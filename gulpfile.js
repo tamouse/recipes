@@ -73,18 +73,8 @@ gulp.task('serve', ['build'], function() {
   // Start a watch for rebuilds
   gulp.watch(['_sass/*.scss'], ['css'])
   gulp.watch([
-    '**',
-    '!Gemfile*',
-    '!README*',
-    '!_sass/**',
-    '!_site/**',
-    '!_dist/**',
-    '!_data/**',
-    '!assets/**',
-    '!*.json',
-    '!gulpfile.js',
-    '!bower_components/**',
-    '!node_modules/**'
+    '_posts/**/*', 'pages/**/*', '_config.yml', '_baseurl.yml', '_includes/**/*', '_layouts/**/*', '_plugins/**/*',
+    '*.html', '*.txt', 'js/**/*', 'img/**/*'
   ], ['jekyll-rebuild']);
 });
 

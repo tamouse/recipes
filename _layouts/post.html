@@ -17,3 +17,17 @@ layout: default
 </div>
 {{content}}
 </article>
+
+{% if page.external_url %}
+<section id="source">
+  <strong>Source:</strong>
+  <a href="{{page.external_url}}">{{page.external_url}}</a>
+</section>
+{% else %}
+{% if page.source %}
+<section id="source">
+  <strong>Source:</strong>
+  <a href="{{page.source}}">{{page.source}}</a>
+</section>
+{% endif %}
+{% endif %}

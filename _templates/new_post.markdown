@@ -4,9 +4,11 @@ title: <%= @title %>
 date: <%= Time.now.strftime("%Y-%m-%d %H:%M") %>
 categories: <%= @categories %>
 tags: <%= @tags %>
-external_url:
+external_url: <%= @url %>
+
 ---
-excerpt
+
+Excerpt...
 
 ## Ingredients
 
@@ -19,4 +21,9 @@ excerpt
 
 2. ...
 
+## Notes
 
+* Prep time:
+* Cooking time:
+* Servings:
+* Calories:

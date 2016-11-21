@@ -28,3 +28,4 @@ exclude:
 - gulpfile.js
 - node_modules
 - bower_components
+- docs

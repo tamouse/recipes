@@ -13,7 +13,7 @@ var config = {
     bowerDir: "./bower_components",
     assetDir: "./assets",
     outputDir: "./_site",
-    distDir: "./_dist"
+    distDir: "./docs"
 }
 
 var messages = {
@@ -79,7 +79,7 @@ gulp.task('serve', ['build'], function() {
 });
 
 gulp.task('jekyll-build-dist', ['css','icons','bower'], function () {
-  return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--config', '_config.yml,_baseurl.yml', '--destination', config.distDir], {stdio: 'inherit'});
+  return cp.spawn('bundle', ['exec', 'jekyll', 'build', '--config', '_config.yml,_baseurl.yml'], {stdio: 'inherit'});
 });
 
 gulp.task('dist', ['bower', 'icons', 'css', 'jekyll-build-dist']);

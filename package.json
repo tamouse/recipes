@@ -12,7 +12,7 @@
   "scripts": {
     "start": "gulp",
     "dist": "gulp dist",
-    "pub": "npm run dist && git add --all && git commit -m 'published' && git push -fu origin HEAD"
+    "deploy": "npm run dist && git add --all && git commit -m published && git push -fu deploy master"
   },
   "devDependencies": {
     "browser-sync": "^2.7.12",

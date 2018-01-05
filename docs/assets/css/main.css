@@ -3,7 +3,8 @@ body {
 
 .post-index-title {
   white-space: nowrap;
-  height: 36px; }
+  height: 36px;
+  overflow: hidden; }
 
 .post-excerpt {
   margin: 0 0 10px;

@@ -9,10 +9,10 @@ layout: default
     <small>{{page.date | date: "%d-%b-%Y"}}</small>
   </h2>
   <div class="page-meta">
-    |
-    {% if page.categories %}<small>Categories: {{page.categories | join: ", "}}</small> | {% endif %}
-    {% if page.tags %}<small>Tags: {{ page.tags | join: ", " }}</small>{% endif %}
-    |
+    <ul class="nav nav-pills">
+    {% if page.categories %}<li class="disabled" role="presentation"><a href="#">Categories:</a></li>{% for cat in page.categories %}<li role="presentation"><a href="{{site.baseurl}}/categories/{{cat}}/">{{cat}}</a></li>{% endfor %}{% endif %}
+    {% if page.tags %}<li class="disabled" role="presentation"><a href="#">Tags:</a></li>{% for tag in page.tags %}<li role="presentation"><a href="{{site.baseurl}}/tag/{{tag}}/">{{tag}}</a></li>{% endfor %}{% endif %}
+    </ul>
   </div>
 </div>
 {{content}}

@@ -4,7 +4,7 @@ title: "Chocolate-Hazelnut Flourless Cakes"
 date: 2013-10-03 14:45
 category: desserts
 external_url: http://www.parade.com/169830/paulajones/chocolate-hazelnut-flourless-chocolate-cakes/print/
-tags: [gluten-free baking, eggs, Nutella]
+tags: [gluten-free baking, eggs, nutella]
 ---
 These chocolate treats are crowd-pleasers, and they're gluten-free.
 

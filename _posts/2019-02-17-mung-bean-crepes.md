@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mung Ben Crepes"
+title: "Mung Bean Crepes"
 date: 2019-02-17 11:13
 categories: ["main-dishes"]
 tags: ["gluten-free", mung-beans, crepes, shrimp]

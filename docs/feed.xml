@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://tamouse.github.io//recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tamouse.github.io//recipes/" rel="alternate" type="text/html" /><updated>2019-03-10T11:54:34-05:00</updated><id>http://tamouse.github.io//recipes/</id><title type="html">Tamouse’s Recipe File</title><subtitle>This is a collection of my personal and favourite recipes, collected over the years in various places.</subtitle><author><name>Tamara Temple</name></author><entry><title type="html">Bean Dip a la Tamara</title><link href="http://tamouse.github.io//recipes/sauces/2019/03/10/bean-dip-a-la-tamara.html" rel="alternate" type="text/html" title="Bean Dip a la Tamara" /><published>2019-03-10T11:36:00-05:00</published><updated>2019-03-10T11:36:00-05:00</updated><id>http://tamouse.github.io//recipes/sauces/2019/03/10/bean-dip-a-la-tamara</id><content type="html" xml:base="http://tamouse.github.io//recipes/sauces/2019/03/10/bean-dip-a-la-tamara.html">&lt;p&gt;I wanted something that was gluten-free and dairy-free to snack on one evening, and didn’t really want popcorn, my typical go-to these days, and thought “Hey, I have some tortilla chips, I have a couple cans of beans, why not make some bean dip?”. So I did.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/recipes/" rel="alternate" type="text/html" /><updated>2019-04-13T17:21:00-05:00</updated><id>http://localhost:4000/recipes/</id><title type="html">Tamouse’s Recipe File</title><subtitle>This is a collection of my personal and favourite recipes, collected over the years in various places.</subtitle><author><name>Tamara Temple</name></author><entry><title type="html">Turmeric, Paprika, and Cumin Roasted Cauliflower</title><link href="http://localhost:4000/recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower.html" rel="alternate" type="text/html" title="Turmeric, Paprika, and Cumin Roasted Cauliflower" /><published>2019-04-13T17:14:00-05:00</published><updated>2019-04-13T17:14:00-05:00</updated><id>http://localhost:4000/recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower</id><content type="html" xml:base="http://localhost:4000/recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower.html">&lt;p&gt;This easy roasted cauliflower is a fantastic side to pasta, meat, or seafood. It also makes a great healthy snack.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 large head cauliflower about 2 pounds&lt;/li&gt;
+  &lt;li&gt;4 medium garlic cloves&lt;/li&gt;
+  &lt;li&gt;2 tablespoons extra-virgin olive oil&lt;/li&gt;
+  &lt;li&gt;1 teaspoon cumin&lt;/li&gt;
+  &lt;li&gt;1 teaspoon smoked paprika&lt;/li&gt;
+  &lt;li&gt;1/2 teaspoon turmeric&lt;/li&gt;
+  &lt;li&gt;1/4 teaspoon red pepper flakes, optional&lt;/li&gt;
+  &lt;li&gt;1 teaspoon salt&lt;/li&gt;
+  &lt;li&gt;1/2 teaspoon ground black pepper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Heat oven to 450 degrees F.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Chop the cauliflower into florets.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Peel and mince the garlic.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In a large bowl, mix the cauliflower and garlic with the olive oil, cumin, paprika, turmeric, red pepper flakes, salt, and black pepper.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Line a large baking sheet with parchment paper or a silicone mat, then place the cauliflower in a single layer on the baking sheet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Roast for 25-35 minutes or until the cauliflower is tender and browned, stirring once.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="cauliflower" /><category term="turmeric" /><category term="cumin" /><category term="paprika" /><category term="garlic" /><category term="gluten-free" /><category term="dairy-free" /><category term="roasted" /><category term="side-dish" /><summary type="html">This easy roasted cauliflower is a fantastic side to pasta, meat, or seafood. It also makes a great healthy snack.</summary></entry><entry><title type="html">Bean Dip a la Tamara</title><link href="http://localhost:4000/recipes/sauces/2019/03/10/bean-dip-a-la-tamara.html" rel="alternate" type="text/html" title="Bean Dip a la Tamara" /><published>2019-03-10T11:36:00-05:00</published><updated>2019-03-10T11:36:00-05:00</updated><id>http://localhost:4000/recipes/sauces/2019/03/10/bean-dip-a-la-tamara</id><content type="html" xml:base="http://localhost:4000/recipes/sauces/2019/03/10/bean-dip-a-la-tamara.html">&lt;p&gt;I wanted something that was gluten-free and dairy-free to snack on one evening, and didn’t really want popcorn, my typical go-to these days, and thought “Hey, I have some tortilla chips, I have a couple cans of beans, why not make some bean dip?”. So I did.&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -49,7 +86,7 @@
   &lt;li&gt;
     &lt;p&gt;soak the food processor parts overnight and thoroughly clean that puppy.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="beans" /><category term="bean-dip" /><category term="dips" /><category term="appetizers" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">I wanted something that was gluten-free and dairy-free to snack on one evening, and didn’t really want popcorn, my typical go-to these days, and thought “Hey, I have some tortilla chips, I have a couple cans of beans, why not make some bean dip?”. So I did.</summary></entry><entry><title type="html">What did I just cook?</title><link href="http://tamouse.github.io//recipes/main-dishes/2019/03/01/what-did-i-just-cook.html" rel="alternate" type="text/html" title="What did I just cook?" /><published>2019-03-01T16:22:00-06:00</published><updated>2019-03-01T16:22:00-06:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2019/03/01/what-did-i-just-cook</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2019/03/01/what-did-i-just-cook.html">&lt;p&gt;I just made some lunch for myself and it was stream-of-concsiousness cooking.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="beans" /><category term="bean-dip" /><category term="dips" /><category term="appetizers" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">I wanted something that was gluten-free and dairy-free to snack on one evening, and didn’t really want popcorn, my typical go-to these days, and thought “Hey, I have some tortilla chips, I have a couple cans of beans, why not make some bean dip?”. So I did.</summary></entry><entry><title type="html">What did I just cook?</title><link href="http://localhost:4000/recipes/main-dishes/2019/03/01/what-did-i-just-cook.html" rel="alternate" type="text/html" title="What did I just cook?" /><published>2019-03-01T16:22:00-06:00</published><updated>2019-03-01T16:22:00-06:00</updated><id>http://localhost:4000/recipes/main-dishes/2019/03/01/what-did-i-just-cook</id><content type="html" xml:base="http://localhost:4000/recipes/main-dishes/2019/03/01/what-did-i-just-cook.html">&lt;p&gt;I just made some lunch for myself and it was stream-of-concsiousness cooking.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -128,7 +165,7 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;So, what would you call this? Maybe some kind of fried rice veggie and chicken stir fry??&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="gluten-free" /><category term="chicken" /><category term="rice" /><category term="veggies" /><summary type="html">I just made some lunch for myself and it was stream-of-concsiousness cooking.</summary></entry><entry><title type="html">Mung Bean Crepes</title><link href="http://tamouse.github.io//recipes/main-dishes/2019/02/17/mung-bean-crepes.html" rel="alternate" type="text/html" title="Mung Bean Crepes" /><published>2019-02-17T11:13:00-06:00</published><updated>2019-02-17T11:13:00-06:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2019/02/17/mung-bean-crepes</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2019/02/17/mung-bean-crepes.html">&lt;p&gt;Mung beans turn up in various guises in Asian cooking, with fresh sprouts being the most common form. This favorite dish of southern Vietnam uses yellow mung beans—split dried green mung beans with their husks removed. Nuoc cham is a condiment offered as an accompaniment to myriad Vietnamese dishes, such as these crepes.&lt;/p&gt;
+&lt;p&gt;So, what would you call this? Maybe some kind of fried rice veggie and chicken stir fry??&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="gluten-free" /><category term="chicken" /><category term="rice" /><category term="veggies" /><summary type="html">I just made some lunch for myself and it was stream-of-concsiousness cooking.</summary></entry><entry><title type="html">Mung Bean Crepes</title><link href="http://localhost:4000/recipes/main-dishes/2019/02/17/mung-bean-crepes.html" rel="alternate" type="text/html" title="Mung Bean Crepes" /><published>2019-02-17T11:13:00-06:00</published><updated>2019-02-17T11:13:00-06:00</updated><id>http://localhost:4000/recipes/main-dishes/2019/02/17/mung-bean-crepes</id><content type="html" xml:base="http://localhost:4000/recipes/main-dishes/2019/02/17/mung-bean-crepes.html">&lt;p&gt;Mung beans turn up in various guises in Asian cooking, with fresh sprouts being the most common form. This favorite dish of southern Vietnam uses yellow mung beans—split dried green mung beans with their husks removed. Nuoc cham is a condiment offered as an accompaniment to myriad Vietnamese dishes, such as these crepes.&lt;/p&gt;
 
 &lt;h1 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h1&gt;
 
@@ -191,7 +228,7 @@
 
 &lt;h1 id=&quot;notes&quot;&gt;Notes&lt;/h1&gt;
 
-&lt;p&gt;Adapted from Williams-Sonoma Collection Series, Asian, by Farina Wong Kingsley (Simon &amp;amp; Schuster, 2003).&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="gluten-free" /><category term="mung-beans" /><category term="crepes" /><category term="shrimp" /><summary type="html">Mung beans turn up in various guises in Asian cooking, with fresh sprouts being the most common form. This favorite dish of southern Vietnam uses yellow mung beans—split dried green mung beans with their husks removed. Nuoc cham is a condiment offered as an accompaniment to myriad Vietnamese dishes, such as these crepes.</summary></entry><entry><title type="html">Curried Vegetables</title><link href="http://tamouse.github.io//recipes/side-dishes/2019/01/23/curried-vegetables.html" rel="alternate" type="text/html" title="Curried Vegetables" /><published>2019-01-23T20:38:00-06:00</published><updated>2019-01-23T20:38:00-06:00</updated><id>http://tamouse.github.io//recipes/side-dishes/2019/01/23/curried-vegetables</id><content type="html" xml:base="http://tamouse.github.io//recipes/side-dishes/2019/01/23/curried-vegetables.html">&lt;p&gt;I make this &lt;em&gt;without&lt;/em&gt; the jalapeno peppers.&lt;/p&gt;
+&lt;p&gt;Adapted from Williams-Sonoma Collection Series, Asian, by Farina Wong Kingsley (Simon &amp;amp; Schuster, 2003).&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="gluten-free" /><category term="mung-beans" /><category term="crepes" /><category term="shrimp" /><summary type="html">Mung beans turn up in various guises in Asian cooking, with fresh sprouts being the most common form. This favorite dish of southern Vietnam uses yellow mung beans—split dried green mung beans with their husks removed. Nuoc cham is a condiment offered as an accompaniment to myriad Vietnamese dishes, such as these crepes.</summary></entry><entry><title type="html">Curried Vegetables</title><link href="http://localhost:4000/recipes/side-dishes/2019/01/23/curried-vegetables.html" rel="alternate" type="text/html" title="Curried Vegetables" /><published>2019-01-23T20:38:00-06:00</published><updated>2019-01-23T20:38:00-06:00</updated><id>http://localhost:4000/recipes/side-dishes/2019/01/23/curried-vegetables</id><content type="html" xml:base="http://localhost:4000/recipes/side-dishes/2019/01/23/curried-vegetables.html">&lt;p&gt;I make this &lt;em&gt;without&lt;/em&gt; the jalapeno peppers.&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -224,7 +261,7 @@
   &lt;li&gt;
     &lt;p&gt;Sprinkle with cilantro before serving.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="curry" /><category term="veggies" /><category term="potatoes" /><category term="tomatoes" /><category term="peppers" /><summary type="html">I make this without the jalapeno peppers.</summary></entry><entry><title type="html">Roasted Vegetables</title><link href="http://tamouse.github.io//recipes/side-dishes/2019/01/23/roasted-vegetables.html" rel="alternate" type="text/html" title="Roasted Vegetables" /><published>2019-01-23T20:33:00-06:00</published><updated>2019-01-23T20:33:00-06:00</updated><id>http://tamouse.github.io//recipes/side-dishes/2019/01/23/roasted-vegetables</id><content type="html" xml:base="http://tamouse.github.io//recipes/side-dishes/2019/01/23/roasted-vegetables.html">&lt;p&gt;“A casserole dish of seasonal vegetables that is so easy to prepare. It can be made a day ahead - just reheat before serving. Lemon juice can be substituted for balsamic vinegar, and you can use baking potatoes if you don’t have any Yukon Golds on hand.”&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="curry" /><category term="veggies" /><category term="potatoes" /><category term="tomatoes" /><category term="peppers" /><summary type="html">I make this without the jalapeno peppers.</summary></entry><entry><title type="html">Roasted Vegetables</title><link href="http://localhost:4000/recipes/side-dishes/2019/01/23/roasted-vegetables.html" rel="alternate" type="text/html" title="Roasted Vegetables" /><published>2019-01-23T20:33:00-06:00</published><updated>2019-01-23T20:33:00-06:00</updated><id>http://localhost:4000/recipes/side-dishes/2019/01/23/roasted-vegetables</id><content type="html" xml:base="http://localhost:4000/recipes/side-dishes/2019/01/23/roasted-vegetables.html">&lt;p&gt;“A casserole dish of seasonal vegetables that is so easy to prepare. It can be made a day ahead - just reheat before serving. Lemon juice can be substituted for balsamic vinegar, and you can use baking potatoes if you don’t have any Yukon Golds on hand.”&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 &lt;ul&gt;
@@ -255,7 +292,7 @@
   &lt;li&gt;
     &lt;p&gt;Roast for 35 to 40 minutes in the preheated oven, stirring every 10 minutes, or until vegetables are cooked through and browned.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="veggies" /><category term="roasting" /><category term="potatoes" /><category term="butternut-squash" /><category term="bell-peppers" /><category term="red-onion" /><summary type="html">“A casserole dish of seasonal vegetables that is so easy to prepare. It can be made a day ahead - just reheat before serving. Lemon juice can be substituted for balsamic vinegar, and you can use baking potatoes if you don’t have any Yukon Golds on hand.”</summary></entry><entry><title type="html">Chicken Soup, Plain Ol’</title><link href="http://tamouse.github.io//recipes/soups/2017/12/30/chicken-soup-plain-ol.html" rel="alternate" type="text/html" title="Chicken Soup, Plain Ol'" /><published>2017-12-30T17:54:00-06:00</published><updated>2017-12-30T17:54:00-06:00</updated><id>http://tamouse.github.io//recipes/soups/2017/12/30/chicken-soup-plain-ol</id><content type="html" xml:base="http://tamouse.github.io//recipes/soups/2017/12/30/chicken-soup-plain-ol.html">&lt;p&gt;This is just plain, old, chicken soup from scratch&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="veggies" /><category term="roasting" /><category term="potatoes" /><category term="butternut-squash" /><category term="bell-peppers" /><category term="red-onion" /><summary type="html">“A casserole dish of seasonal vegetables that is so easy to prepare. It can be made a day ahead - just reheat before serving. Lemon juice can be substituted for balsamic vinegar, and you can use baking potatoes if you don’t have any Yukon Golds on hand.”</summary></entry><entry><title type="html">Chicken Soup, Plain Ol’</title><link href="http://localhost:4000/recipes/soups/2017/12/30/chicken-soup-plain-ol.html" rel="alternate" type="text/html" title="Chicken Soup, Plain Ol'" /><published>2017-12-30T17:54:00-06:00</published><updated>2017-12-30T17:54:00-06:00</updated><id>http://localhost:4000/recipes/soups/2017/12/30/chicken-soup-plain-ol</id><content type="html" xml:base="http://localhost:4000/recipes/soups/2017/12/30/chicken-soup-plain-ol.html">&lt;p&gt;This is just plain, old, chicken soup from scratch&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -296,7 +333,7 @@ fat, too&lt;/li&gt;
   &lt;li&gt;white wine&lt;/li&gt;
   &lt;li&gt;tinned broth&lt;/li&gt;
   &lt;li&gt;bouillon&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Tamara Temple</name></author><category term="soup" /><category term="chicken" /><summary type="html">This is just plain, old, chicken soup from scratch</summary></entry><entry><title type="html">pear or apple cobbler</title><link href="http://tamouse.github.io//recipes/desserts/2017/12/22/pear-or-apple-cobbler.html" rel="alternate" type="text/html" title="pear or apple cobbler" /><published>2017-12-22T23:08:00-06:00</published><updated>2017-12-22T23:08:00-06:00</updated><id>http://tamouse.github.io//recipes/desserts/2017/12/22/pear-or-apple-cobbler</id><content type="html" xml:base="http://tamouse.github.io//recipes/desserts/2017/12/22/pear-or-apple-cobbler.html">&lt;p&gt;“A baked pear or apple recipe with a crunchy oatmeal cobbler-like topping. Simple and tasty. Serve warm with vanilla ice cream. Yummy!”&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Tamara Temple</name></author><category term="soup" /><category term="chicken" /><summary type="html">This is just plain, old, chicken soup from scratch</summary></entry><entry><title type="html">pear or apple cobbler</title><link href="http://localhost:4000/recipes/desserts/2017/12/22/pear-or-apple-cobbler.html" rel="alternate" type="text/html" title="pear or apple cobbler" /><published>2017-12-22T23:08:00-06:00</published><updated>2017-12-22T23:08:00-06:00</updated><id>http://localhost:4000/recipes/desserts/2017/12/22/pear-or-apple-cobbler</id><content type="html" xml:base="http://localhost:4000/recipes/desserts/2017/12/22/pear-or-apple-cobbler.html">&lt;p&gt;“A baked pear or apple recipe with a crunchy oatmeal cobbler-like topping. Simple and tasty. Serve warm with vanilla ice cream. Yummy!”&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -343,7 +380,7 @@ tender, about 45 minutes.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Prep time: 15 minutes&lt;/li&gt;
   &lt;li&gt;Cooking time: 45 minutes&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Tamara Temple</name></author><category term="pears" /><category term="apples" /><category term="brown-sugar" /><category term="rolled-oats" /><category term="maple-syrup" /><category term="cinnamon" /><category term="butter" /><summary type="html">“A baked pear or apple recipe with a crunchy oatmeal cobbler-like topping. Simple and tasty. Serve warm with vanilla ice cream. Yummy!”</summary></entry><entry><title type="html">Pastitsio</title><link href="http://tamouse.github.io//recipes/main-dishes/2017/10/08/pastitsio.html" rel="alternate" type="text/html" title="Pastitsio" /><published>2017-10-08T00:00:00-05:00</published><updated>2017-10-08T00:00:00-05:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2017/10/08/pastitsio</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2017/10/08/pastitsio.html">&lt;p&gt;To try.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Tamara Temple</name></author><category term="pears" /><category term="apples" /><category term="brown-sugar" /><category term="rolled-oats" /><category term="maple-syrup" /><category term="cinnamon" /><category term="butter" /><summary type="html">“A baked pear or apple recipe with a crunchy oatmeal cobbler-like topping. Simple and tasty. Serve warm with vanilla ice cream. Yummy!”</summary></entry><entry><title type="html">Pastitsio</title><link href="http://localhost:4000/recipes/main-dishes/2017/10/08/pastitsio.html" rel="alternate" type="text/html" title="Pastitsio" /><published>2017-10-08T00:00:00-05:00</published><updated>2017-10-08T00:00:00-05:00</updated><id>http://localhost:4000/recipes/main-dishes/2017/10/08/pastitsio</id><content type="html" xml:base="http://localhost:4000/recipes/main-dishes/2017/10/08/pastitsio.html">&lt;p&gt;To try.&lt;/p&gt;
 
 &lt;p&gt;“Makes a lot and is just incredible. Everyone loves this dish and it is worth the effort.”&lt;/p&gt;
 
@@ -422,7 +459,7 @@ stand 10 minutes before cutting into squares to serve.&lt;/p&gt;
   &lt;li&gt;Prep: 45 m&lt;/li&gt;
   &lt;li&gt;Cook: 1 h 30 m&lt;/li&gt;
   &lt;li&gt;Ready In: 2 h 20 m&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Tamara Temple</name></author><category term="pasta" /><category term="meat" /><category term="greek" /><category term="hot-dish" /><summary type="html">To try.</summary></entry><entry><title type="html">Wasabinero Chili</title><link href="http://tamouse.github.io//recipes/soups/2017/09/16/wasabinero-chili.html" rel="alternate" type="text/html" title="Wasabinero Chili" /><published>2017-09-16T22:37:00-05:00</published><updated>2017-09-16T22:37:00-05:00</updated><id>http://tamouse.github.io//recipes/soups/2017/09/16/wasabinero-chili</id><content type="html" xml:base="http://tamouse.github.io//recipes/soups/2017/09/16/wasabinero-chili.html">&lt;p&gt;“What happens when you have a Japanese friend that likes chili? You make him wasabi chili.”&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Tamara Temple</name></author><category term="pasta" /><category term="meat" /><category term="greek" /><category term="hot-dish" /><summary type="html">To try.</summary></entry><entry><title type="html">Wasabinero Chili</title><link href="http://localhost:4000/recipes/soups/2017/09/16/wasabinero-chili.html" rel="alternate" type="text/html" title="Wasabinero Chili" /><published>2017-09-16T22:37:00-05:00</published><updated>2017-09-16T22:37:00-05:00</updated><id>http://localhost:4000/recipes/soups/2017/09/16/wasabinero-chili</id><content type="html" xml:base="http://localhost:4000/recipes/soups/2017/09/16/wasabinero-chili.html">&lt;p&gt;“What happens when you have a Japanese friend that likes chili? You make him wasabi chili.”&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -477,44 +514,4 @@ to 10 minutes. Stir into the pot and simmer 2 hours.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Prep time: 20 m&lt;/li&gt;
   &lt;li&gt;Cooking time: 3 h&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Tamara Temple</name></author><category term="chili" /><category term="wasabi" /><summary type="html">“What happens when you have a Japanese friend that likes chili? You make him wasabi chili.”</summary></entry><entry><title type="html">Bacon-Wrapped Dates stuffed with Manchego</title><link href="http://tamouse.github.io//recipes/appetizers/2016/12/11/bacon-wrapped-dates-stuffed-with-manchego.html" rel="alternate" type="text/html" title="Bacon-Wrapped Dates stuffed with Manchego" /><published>2016-12-11T16:19:00-06:00</published><updated>2016-12-11T16:19:00-06:00</updated><id>http://tamouse.github.io//recipes/appetizers/2016/12/11/bacon-wrapped-dates-stuffed-with-manchego</id><content type="html" xml:base="http://tamouse.github.io//recipes/appetizers/2016/12/11/bacon-wrapped-dates-stuffed-with-manchego.html">&lt;p&gt;A friend introduced me to these, and they are spectacular as you might
-imagine.&lt;/p&gt;
-
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;4 ounces manchego cheese, cut into 24 small cubes&lt;/li&gt;
-  &lt;li&gt;24 dried pitted dates&lt;/li&gt;
-  &lt;li&gt;8 slices bacon, cut into thirds&lt;/li&gt;
-  &lt;li&gt;24 wooden toothpicks&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Heat oven to 400 degrees F (200 degrees C).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Stuff 1 piece manchego cheese into each date and then wrap with 1
-piece bacon, securing with a toothpick.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Arrange dates in a shallow baking dish with the bacon seam down and
-1 inch between pieces.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Bake in preheated oven for 5 minutes, turn dates with tongs, and
- continue baking until bacon is crisp, 5 to 6 minutes more.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Drain on a plate lined with paper towels.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Prep time: 10 minutes&lt;/li&gt;
-  &lt;li&gt;Cooking time: 10 minutes&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Tamara Temple</name></author><category term="bacon" /><category term="dates" /><category term="manchego" /><category term="cheese" /><summary type="html">A friend introduced me to these, and they are spectacular as you might imagine.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Tamara Temple</name></author><category term="chili" /><category term="wasabi" /><summary type="html">“What happens when you have a Japanese friend that likes chili? You make him wasabi chili.”</summary></entry></feed>

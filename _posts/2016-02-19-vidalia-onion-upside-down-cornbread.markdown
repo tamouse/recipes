@@ -3,7 +3,7 @@ layout: post
 title: Vidalia Onion Upside-Down Cornbread
 date: 2016-02-19 23:08
 categories: ["baked-goods"]
-tags: ["vidalia-onions", "cornbread", "OMG"]
+tags: ["vidalia-onions", "cornbread", "omg"]
 external_url: http://sweetsavant.com/2015/07/29/vidalia-onion-upside-down-broccoli-cornbread/
 
 ---

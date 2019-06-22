@@ -2,30 +2,8 @@
 layout: default
 ---
 
-
-<!-- Main jumbotron for a primary marketing message or call to action -->
-<div class="jumbotron">
-  <div class="container">
-  <h1>Recipe File</h1>
-
-  <p>
-    Way back when, I had a paper notebook that I used to write all my
-    recipes down in. At one point I thought for sure I had lost it,
-    but <strong>no! </strong> my lovely sister found it while we were pawing
-    through boxes in my storage lockers.
-  </p>
-
-  <p>
-    Nevertheless, I had started this file several years ago on old
-    wiki, and brought them over here in Jekyll and Bootstrap to update
-    them and add to them.
-  </p>
-
-  </div>
-</div>
-
 <div class="row">
-  {% for post in site.posts limit:6 %}
+  {% for post in site.posts  %}
   <div class="col-md-4">
     {% include index_item.html %}
   </div>

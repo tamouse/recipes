@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Pastistio
+title: Pastitsio
 categories: [main-dishes]
 tags:
   - pasta
   - meat
-  - italian
+  - greek
   - hot-dish
 
 source: http://allrecipes.com/recipe/23159/pastitsio-ii/print/?recipeType=Recipe&servings=8&isMetric=false

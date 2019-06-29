@@ -14,7 +14,9 @@ tags:
   - dairy-free
 ---
 
-Made this today for Memrorial Weekend celebration BBQ at my brother's. I needed something to bring that I know I'd be able to eat and enjoy. Learning to find things I can eat while being out with normal folks is hard. This one, though, is AMAZING.
+Made this today for Memrorial Weekend celebration BBQ at my brother's. I needed something to bring that I know I'd be able to eat and enjoy. Learning to find things I can eat while being out with normal folks is hard. This one, though, is AMAZING. This is pretty similar to [Sweet and White Potato Salad]({{ site.baseurl }}{% post_url 2016-06-24-sweet-and-white-potato-salad %}) except the taters are baked intead of boiled. Plus BACON.
+
+Make it vegetarian / vegan by taking out the eggs, bacon, and using a vegan mayo instead.
 
 ## Ingredients
 
@@ -48,7 +50,7 @@ Also, if you prefer yams, go for it.
 1. If the bacon is dry, chop that and toss that in the bowl.
 1. Put the 4 eggs in a pot, add water to cover, and bring to boil. Turn down to a steady roll and cook for 20 minutes or so to get hard.
 1. You can't have a lie down while you have stuff on the stove so go sit at the table and play on your iPad or something.
-1. Take the eggs of the heat, drain them and soak in cold water.
+1. Take the eggs off the heat, drain them and soak in cold water.
 1. Now you can have another lie down.
 1. Chop up the celery and onion if you haven't already, toss it in the big mixing bowl.
 1. I think another lie down is in order.

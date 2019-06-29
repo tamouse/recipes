@@ -3,7 +3,7 @@ layout: post
 title: "What did I just cook?"
 date: 2019-03-01 16:22
 categories: ["main-dishes"]
-tags: [gluten-free, chicken, rice, veggies]
+tags: [gluten-free, chicken, rice, veggies, stuff]
 ---
 I just made some lunch for myself and it was stream-of-concsiousness cooking.
 

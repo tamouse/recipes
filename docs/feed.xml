@@ -1,53 +1,68 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://tamouse.github.io//recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tamouse.github.io//recipes/" rel="alternate" type="text/html" /><updated>2019-05-25T22:26:39-05:00</updated><id>http://tamouse.github.io//recipes/</id><title type="html">Tamouse’s Recipe File</title><subtitle>This is a collection of my personal and favourite recipes, collected over the years in various places.</subtitle><author><name>Tamara Temple</name></author><entry><title type="html">Non-dairy French Onion Dip</title><link href="http://tamouse.github.io//recipes/appetizers/2019/05/25/non-dairy-french-onion-dip.html" rel="alternate" type="text/html" title="Non-dairy French Onion Dip" /><published>2019-05-25T22:05:00-05:00</published><updated>2019-05-25T22:05:00-05:00</updated><id>http://tamouse.github.io//recipes/appetizers/2019/05/25/non-dairy-french-onion-dip</id><content type="html" xml:base="http://tamouse.github.io//recipes/appetizers/2019/05/25/non-dairy-french-onion-dip.html">&lt;p&gt;Looking for something I can bring to parties that also won’t kill me. I found this recipe at &lt;a href=&quot;https://www.brandnewvegan.com/recipes/vegan-french-onion-dip&quot;&gt;brand new vegan&lt;/a&gt; who seems to have similar ideas. As you’ll see, though, this turned non-vegan in a twist at the end.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/recipes/" rel="alternate" type="text/html" /><updated>2019-06-29T17:23:08-05:00</updated><id>http://localhost:4000/recipes/</id><title type="html">Tamouse’s Recipe File</title><subtitle>This is a collection of my personal and favourite recipes, collected over the years in various places.</subtitle><author><name>Tamara Temple</name></author><entry><title type="html">More Stuff with Stuff In It</title><link href="http://localhost:4000/recipes/main-dish/2019/06/29/more-stuff-with-stuff-in-it.html" rel="alternate" type="text/html" title="More Stuff with Stuff In It" /><published>2019-06-29T16:52:00-05:00</published><updated>2019-06-29T16:52:00-05:00</updated><id>http://localhost:4000/recipes/main-dish/2019/06/29/more-stuff-with-stuff-in-it</id><content type="html" xml:base="http://localhost:4000/recipes/main-dish/2019/06/29/more-stuff-with-stuff-in-it.html">This is another one of those one-pan meals my seester calls &quot;Stuff With Stuff In It&quot; and makes a couple of meals worth of stuff. Mostly this is easy for me to make, doesn't hurt my hands with much prep or handlind cold items, and is fast enough it doesn't take all my spoons to make it.
 
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+## Ingredients
 
-&lt;ul&gt;
-  &lt;li&gt;1 large vidalia onion, peeled and sliced on a mandoline&lt;/li&gt;
-  &lt;li&gt;salt&lt;/li&gt;
-  &lt;li&gt;balsamic vinegar&lt;/li&gt;
-  &lt;li&gt;16oz block of extra firm tofu&lt;/li&gt;
-&lt;/ul&gt;
+- olive oil
+- 2 cloves garlic, minced
+- 1 whole vidalia onion, sliced
+- a handful of mushrooms, diced
+- a handful of cole slaw mix
+- a handful of broccoli slaw mix
+- a dash of rice vinegar
+- 8 oz cooked chicken
+- 1 pack &quot;quick rice&quot;, cooked. I've been using the 90-second microwave in bag stuff, works great for me.
+- [vegan &quot;alfredo&quot; sauce](https://tamouse.github.io/recipes/sauces/2019/06/22/vegan-alfredo-sauce.html &quot;Make this stuff up ahead of time and keep it for things like this 😄 &quot;)
+- salt, pepper, etc
+- italian blend seasoning
 
-&lt;p&gt;(On the next three, I misread and used tablespoons. It makes a difference. :P )&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;5 teaspoons lemon juice&lt;/li&gt;
-  &lt;li&gt;3 teaspoons apple cider vinegar&lt;/li&gt;
-  &lt;li&gt;1 teaspoon maple syrup&lt;/li&gt;
-  &lt;li&gt;1 teaspoon vegan worcestershire sauce (normal stuff has gluten) (I didn’t have any so I left it out)&lt;/li&gt;
-  &lt;li&gt;1/3 cup dried chopped onions (I had minced)&lt;/li&gt;
-  &lt;li&gt;2 teaspoons onion powder&lt;/li&gt;
-  &lt;li&gt;1/4 teaspoon celery seed&lt;/li&gt;
-  &lt;li&gt;1/4 teaspoon paprika&lt;/li&gt;
-  &lt;li&gt;1/4 teaspoon salt&lt;/li&gt;
-  &lt;li&gt;some pepper&lt;/li&gt;
-&lt;/ul&gt;
+## Directions
 
-&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+1. heat up the oil in a pan
+2. toss in the minced garlic, sliced onion, and mushrooms. cook until the onion goes soft.
+3. toss in the handfuls of cole slaw mix and broccoli slaw mix. Add the dash of rice vinegar, and stir fry for a bit. Cover and let steam for a bit.
+4. dump in the chicken, rice, &quot;alfredo&quot; sauce, salt, pepper, spices, and herbs, stir and heat through.</content><author><name>Tamara Temple</name></author><category term="stuff" /><category term="gluten-free" /><category term="rice" /><category term="chicken" /><category term="fast" /><summary type="html">This is another one of those one-pan meals my seester calls “Stuff With Stuff In It” and makes a couple of meals worth of stuff. Mostly this is easy for me to make, doesn’t hurt my hands with much prep or handlind cold items, and is fast enough it doesn’t take all my spoons to make it.</summary></entry><entry><title type="html">Non-dairy French Onion Dip</title><link href="http://localhost:4000/recipes/appetizers/2019/05/25/non-dairy-french-onion-dip.html" rel="alternate" type="text/html" title="Non-dairy French Onion Dip" /><published>2019-05-25T22:05:00-05:00</published><updated>2019-05-25T22:05:00-05:00</updated><id>http://localhost:4000/recipes/appetizers/2019/05/25/non-dairy-french-onion-dip</id><content type="html" xml:base="http://localhost:4000/recipes/appetizers/2019/05/25/non-dairy-french-onion-dip.html">Looking for something I can bring to parties that also won't kill me. I found this recipe at [brand new vegan](https://www.brandnewvegan.com/recipes/vegan-french-onion-dip) who seems to have similar ideas. As you'll see, though, this turned non-vegan in a twist at the end.
 
-&lt;ol&gt;
-  &lt;li&gt;In a &lt;strong&gt;large&lt;/strong&gt; dry frying pan at just under medium heat, lay in the sliced onions, busting up rings, and clumps, trying to get as thin a layer of onion as possible, dusting on the salt. Leave on the heat, without touching, for at least 20 minutes, maybe 30. (I confess this was hard to achieve, I ended up flipping things over at around 15-20 minutes because too much of mine weren’t touching the pan. But only once! I swear!)&lt;/li&gt;
-  &lt;li&gt;While that is going on, rearrange the counter top and do some dishes so you can drag over the food processor that weighs about 20 pounds.&lt;/li&gt;
-  &lt;li&gt;Drain the tofu, and dump the block in the food processor.&lt;/li&gt;
-  &lt;li&gt;Add the rest of the stuff to the food processor and pulse it until it is smooth.&lt;/li&gt;
-  &lt;li&gt;At the end of the 30 minute onion spree, splash on a little balsamic and mix up the onions, deglazing the pan. Dump that mess into the food processor bowl.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Pulse the food processor to integrate the onions, but don’t turn it into a smoothie.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;And then because I had a ton of bacon from another recipe I was doing available, I grabbed a couple pieces, chopped them and dump them into the bowl, too. A few pulses to integrate it all.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Refrigerate it well.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;After a few tastes realize you added too much lemon juice, vinegar, and syrup. Yeah. Oops. Read the damn directions, Tamara. Oh, well, bringing it anyway, there’s no time to start this over.&lt;/li&gt;
-&lt;/ol&gt;
+## Ingredients
 
-&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+- 1 large vidalia onion, peeled and sliced on a mandoline
+- salt
+- balsamic vinegar
+- 16oz block of extra firm tofu
 
-&lt;p&gt;Not sure this is smooth or creamy enough for regular potato chips. It’s okay with small tortilla rounds (yay, Old Dutch).&lt;/p&gt;
+(On the next three, I misread and used tablespoons. It makes a difference. :P )
+- 5 teaspoons lemon juice
+- 3 teaspoons apple cider vinegar
+- 1 teaspoon maple syrup
+- 1 teaspoon vegan worcestershire sauce (normal stuff has gluten) (I didn't have any so I left it out)
+- 1/3 cup dried chopped onions (I had minced)
+- 2 teaspoons onion powder
+- 1/4 teaspoon celery seed
+- 1/4 teaspoon paprika
+- 1/4 teaspoon salt
+- some pepper
 
-&lt;p&gt;I think the acids were an attempt to get the tang of sour cream, and the maple syrup to get the sweet and also cover up the bitterness of the tofu. Never try to pass this off as anything but tofu, though.&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="dairy-free" /><category term="gluten-free" /><category term="vidalias" /><category term="onions" /><category term="tofu" /><summary type="html">Looking for something I can bring to parties that also won’t kill me. I found this recipe at brand new vegan who seems to have similar ideas. As you’ll see, though, this turned non-vegan in a twist at the end.</summary></entry><entry><title type="html">Baked Sweet and White Potato Salad</title><link href="http://tamouse.github.io//recipes/salads/2019/05/25/baked-white-and-sweet-potato-salad.html" rel="alternate" type="text/html" title="Baked Sweet and White Potato Salad" /><published>2019-05-25T21:34:00-05:00</published><updated>2019-05-25T21:34:00-05:00</updated><id>http://tamouse.github.io//recipes/salads/2019/05/25/baked-white-and-sweet-potato-salad</id><content type="html" xml:base="http://tamouse.github.io//recipes/salads/2019/05/25/baked-white-and-sweet-potato-salad.html">&lt;p&gt;Made this today for Memrorial Weekend celebration BBQ at my brother’s. I needed something to bring that I know I’d be able to eat and enjoy. Learning to find things I can eat while being out with normal folks is hard. This one, though, is AMAZING.&lt;/p&gt;
+## Directions
+
+1. In a **large** dry frying pan at just under medium heat, lay in the sliced onions, busting up rings, and clumps, trying to get as thin a layer of onion as possible, dusting on the salt. Leave on the heat, without touching, for at least 20 minutes, maybe 30. (I confess this was hard to achieve, I ended up flipping things over at around 15-20 minutes because too much of mine weren't touching the pan. But only once! I swear!)
+1. While that is going on, rearrange the counter top and do some dishes so you can drag over the food processor that weighs about 20 pounds.
+1. Drain the tofu, and dump the block in the food processor.
+1. Add the rest of the stuff to the food processor and pulse it until it is smooth.
+2. At the end of the 30 minute onion spree, splash on a little balsamic and mix up the onions, deglazing the pan. Dump that mess into the food processor bowl.
+1. Pulse the food processor to integrate the onions, but don't turn it into a smoothie.
+
+1. And then because I had a ton of bacon from another recipe I was doing available, I grabbed a couple pieces, chopped them and dump them into the bowl, too. A few pulses to integrate it all.
+
+1. Refrigerate it well.
+
+1. After a few tastes realize you added too much lemon juice, vinegar, and syrup. Yeah. Oops. Read the damn directions, Tamara. Oh, well, bringing it anyway, there's no time to start this over.
+
+## Notes
+
+Not sure this is smooth or creamy enough for regular potato chips. It's okay with small tortilla rounds (yay, Old Dutch).
+
+I think the acids were an attempt to get the tang of sour cream, and the maple syrup to get the sweet and also cover up the bitterness of the tofu. Never try to pass this off as anything but tofu, though.</content><author><name>Tamara Temple</name></author><category term="dairy-free" /><category term="gluten-free" /><category term="vidalias" /><category term="onions" /><category term="tofu" /><summary type="html">Looking for something I can bring to parties that also won’t kill me. I found this recipe at brand new vegan who seems to have similar ideas. As you’ll see, though, this turned non-vegan in a twist at the end.</summary></entry><entry><title type="html">Baked Sweet and White Potato Salad</title><link href="http://localhost:4000/recipes/salads/2019/05/25/baked-white-and-sweet-potato-salad.html" rel="alternate" type="text/html" title="Baked Sweet and White Potato Salad" /><published>2019-05-25T21:34:00-05:00</published><updated>2019-05-25T21:34:00-05:00</updated><id>http://localhost:4000/recipes/salads/2019/05/25/baked-white-and-sweet-potato-salad</id><content type="html" xml:base="http://localhost:4000/recipes/salads/2019/05/25/baked-white-and-sweet-potato-salad.html">&lt;p&gt;Made this today for Memrorial Weekend celebration BBQ at my brother’s. I needed something to bring that I know I’d be able to eat and enjoy. Learning to find things I can eat while being out with normal folks is hard. This one, though, is AMAZING. This is pretty similar to &lt;a href=&quot;/recipes/salads/2016/06/24/sweet-and-white-potato-salad.html&quot;&gt;Sweet and White Potato Salad&lt;/a&gt; except the taters are baked intead of boiled. Plus BACON.&lt;/p&gt;
+
+&lt;p&gt;Make it vegetarian / vegan by taking out the eggs, bacon, and using a vegan mayo instead.&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -86,7 +101,7 @@
   &lt;li&gt;If the bacon is dry, chop that and toss that in the bowl.&lt;/li&gt;
   &lt;li&gt;Put the 4 eggs in a pot, add water to cover, and bring to boil. Turn down to a steady roll and cook for 20 minutes or so to get hard.&lt;/li&gt;
   &lt;li&gt;You can’t have a lie down while you have stuff on the stove so go sit at the table and play on your iPad or something.&lt;/li&gt;
-  &lt;li&gt;Take the eggs of the heat, drain them and soak in cold water.&lt;/li&gt;
+  &lt;li&gt;Take the eggs off the heat, drain them and soak in cold water.&lt;/li&gt;
   &lt;li&gt;Now you can have another lie down.&lt;/li&gt;
   &lt;li&gt;Chop up the celery and onion if you haven’t already, toss it in the big mixing bowl.&lt;/li&gt;
   &lt;li&gt;I think another lie down is in order.&lt;/li&gt;
@@ -101,386 +116,259 @@
   &lt;li&gt;Taste it and die of pleasure.&lt;/li&gt;
   &lt;li&gt;Fridge it. This is going in overnight because I was smart enough not to try to rush this before going down tomorrow.&lt;/li&gt;
   &lt;li&gt;Try not to go back and keep tasting it. Yeah, right.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="salad" /><category term="potatoes" /><category term="white-potatoes" /><category term="sweet-potatoes" /><category term="eggs" /><category term="bacon" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">Made this today for Memrorial Weekend celebration BBQ at my brother’s. I needed something to bring that I know I’d be able to eat and enjoy. Learning to find things I can eat while being out with normal folks is hard. This one, though, is AMAZING.</summary></entry><entry><title type="html">Turmeric, Paprika, and Cumin Roasted Cauliflower</title><link href="http://tamouse.github.io//recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower.html" rel="alternate" type="text/html" title="Turmeric, Paprika, and Cumin Roasted Cauliflower" /><published>2019-04-13T17:14:00-05:00</published><updated>2019-04-13T17:14:00-05:00</updated><id>http://tamouse.github.io//recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower</id><content type="html" xml:base="http://tamouse.github.io//recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower.html">&lt;p&gt;This easy roasted cauliflower is a fantastic side to pasta, meat, or seafood. It also makes a great healthy snack.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="salad" /><category term="potatoes" /><category term="white-potatoes" /><category term="sweet-potatoes" /><category term="eggs" /><category term="bacon" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">Made this today for Memrorial Weekend celebration BBQ at my brother’s. I needed something to bring that I know I’d be able to eat and enjoy. Learning to find things I can eat while being out with normal folks is hard. This one, though, is AMAZING. This is pretty similar to Sweet and White Potato Salad except the taters are baked intead of boiled. Plus BACON.</summary></entry><entry><title type="html">Turmeric, Paprika, and Cumin Roasted Cauliflower</title><link href="http://localhost:4000/recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower.html" rel="alternate" type="text/html" title="Turmeric, Paprika, and Cumin Roasted Cauliflower" /><published>2019-04-13T17:14:00-05:00</published><updated>2019-04-13T17:14:00-05:00</updated><id>http://localhost:4000/recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower</id><content type="html" xml:base="http://localhost:4000/recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower.html">This easy roasted cauliflower is a fantastic side to pasta, meat, or seafood. It also makes a great healthy snack.
 
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+## Ingredients
 
-&lt;ul&gt;
-  &lt;li&gt;1 large head cauliflower about 2 pounds&lt;/li&gt;
-  &lt;li&gt;4 medium garlic cloves&lt;/li&gt;
-  &lt;li&gt;2 tablespoons extra-virgin olive oil&lt;/li&gt;
-  &lt;li&gt;1 teaspoon cumin&lt;/li&gt;
-  &lt;li&gt;1 teaspoon smoked paprika&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon turmeric&lt;/li&gt;
-  &lt;li&gt;1/4 teaspoon red pepper flakes, optional&lt;/li&gt;
-  &lt;li&gt;1 teaspoon salt&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon ground black pepper&lt;/li&gt;
-&lt;/ul&gt;
+- 1 large head cauliflower about 2 pounds
+- 4 medium garlic cloves
+- 2 tablespoons extra-virgin olive oil
+- 1 teaspoon cumin
+- 1 teaspoon smoked paprika
+- 1/2 teaspoon turmeric
+- 1/4 teaspoon red pepper flakes, optional
+- 1 teaspoon salt
+- 1/2 teaspoon ground black pepper
 
-&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+## Directions
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Heat oven to 450 degrees F.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Chop the cauliflower into florets.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Peel and mince the garlic.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In a large bowl, mix the cauliflower and garlic with the olive oil, cumin, paprika, turmeric, red pepper flakes, salt, and black pepper.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Line a large baking sheet with parchment paper or a silicone mat, then place the cauliflower in a single layer on the baking sheet.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Roast for 25-35 minutes or until the cauliflower is tender and browned, stirring once.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="cauliflower" /><category term="turmeric" /><category term="cumin" /><category term="paprika" /><category term="garlic" /><category term="gluten-free" /><category term="dairy-free" /><category term="roasted" /><category term="side-dish" /><summary type="html">This easy roasted cauliflower is a fantastic side to pasta, meat, or seafood. It also makes a great healthy snack.</summary></entry><entry><title type="html">Bean Dip a la Tamara</title><link href="http://tamouse.github.io//recipes/sauces/2019/03/10/bean-dip-a-la-tamara.html" rel="alternate" type="text/html" title="Bean Dip a la Tamara" /><published>2019-03-10T11:36:00-05:00</published><updated>2019-03-10T11:36:00-05:00</updated><id>http://tamouse.github.io//recipes/sauces/2019/03/10/bean-dip-a-la-tamara</id><content type="html" xml:base="http://tamouse.github.io//recipes/sauces/2019/03/10/bean-dip-a-la-tamara.html">&lt;p&gt;I wanted something that was gluten-free and dairy-free to snack on one evening, and didn’t really want popcorn, my typical go-to these days, and thought “Hey, I have some tortilla chips, I have a couple cans of beans, why not make some bean dip?”. So I did.&lt;/p&gt;
+1. Heat oven to 450 degrees F.
 
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+2. Chop the cauliflower into florets.
 
-&lt;ul&gt;
-  &lt;li&gt;2 15oz. cans of beans, rinsed and drained. I used one can of black beans and one can of kidney beans, you do you.&lt;/li&gt;
-  &lt;li&gt;1 15oz. can of diced tomatoes, drained.&lt;/li&gt;
-  &lt;li&gt;1 small can green chilis.&lt;/li&gt;
-  &lt;li&gt;salt and pepper&lt;/li&gt;
-  &lt;li&gt;ground cumin&lt;/li&gt;
-  &lt;li&gt;chili powder&lt;/li&gt;
-  &lt;li&gt;red pepper flakes&lt;/li&gt;
-  &lt;li&gt;chipotle seasoning&lt;/li&gt;
-&lt;/ul&gt;
+3. Peel and mince the garlic.
 
-&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+4. In a large bowl, mix the cauliflower and garlic with the olive oil, cumin, paprika, turmeric, red pepper flakes, salt, and black pepper.
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;get out food processor and set it up.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;find out food processor was put away filthy. take apart food processor and wash thoroughly, dry, and set up again.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;open up all the cans.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;wash and rinse one can of beans at a time, or like i did, dump both cans in the strainer and find out it’s too big and spills beans all over when doing the next step.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;dump the washed and rinsed beans in the food processor.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;drain the tomatoes, and dump into the food processor.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;dump in the green chilis. (you can see where this is heading, i think).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;add the seasonings and spices that you see fit. this is what was in the spice rack.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;pulse to stir up the ingredients, then run for a few seconds to mess up that dip.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;realize this makes way more than you as a single eater can manage to eat in a lifetime. freeze the rest to save for that big gathering happening at the end of the month. they’ll eat it, sure.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;soak the food processor parts overnight and thoroughly clean that puppy.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="beans" /><category term="bean-dip" /><category term="dips" /><category term="appetizers" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">I wanted something that was gluten-free and dairy-free to snack on one evening, and didn’t really want popcorn, my typical go-to these days, and thought “Hey, I have some tortilla chips, I have a couple cans of beans, why not make some bean dip?”. So I did.</summary></entry><entry><title type="html">What did I just cook?</title><link href="http://tamouse.github.io//recipes/main-dishes/2019/03/01/what-did-i-just-cook.html" rel="alternate" type="text/html" title="What did I just cook?" /><published>2019-03-01T16:22:00-06:00</published><updated>2019-03-01T16:22:00-06:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2019/03/01/what-did-i-just-cook</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2019/03/01/what-did-i-just-cook.html">&lt;p&gt;I just made some lunch for myself and it was stream-of-concsiousness cooking.&lt;/p&gt;
+5. Line a large baking sheet with parchment paper or a silicone mat, then place the cauliflower in a single layer on the baking sheet.
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cook some rice. 2 cups water to 1 cup rice. Cover, boil, stir, reduce the heat, and cover. Stir it up every 5 minutes, and cook for 15 minutes. I turned the heat all the way off for the last 5 minutes. Stir it again at the end, and remove it from the heat.&lt;/p&gt;
+6. Roast for 25-35 minutes or until the cauliflower is tender and browned, stirring once.</content><author><name>Tamara Temple</name></author><category term="cauliflower" /><category term="turmeric" /><category term="cumin" /><category term="paprika" /><category term="garlic" /><category term="gluten-free" /><category term="dairy-free" /><category term="roasted" /><category term="side-dish" /><summary type="html">This easy roasted cauliflower is a fantastic side to pasta, meat, or seafood. It also makes a great healthy snack.</summary></entry><entry><title type="html">Bean Dip a la Tamara</title><link href="http://localhost:4000/recipes/sauces/2019/03/10/bean-dip-a-la-tamara.html" rel="alternate" type="text/html" title="Bean Dip a la Tamara" /><published>2019-03-10T11:36:00-05:00</published><updated>2019-03-10T11:36:00-05:00</updated><id>http://localhost:4000/recipes/sauces/2019/03/10/bean-dip-a-la-tamara</id><content type="html" xml:base="http://localhost:4000/recipes/sauces/2019/03/10/bean-dip-a-la-tamara.html">I wanted something that was gluten-free and dairy-free to snack on one evening, and didn't really want popcorn, my typical go-to these days, and thought &quot;Hey, I have some tortilla chips, I have a couple cans of beans, why not make some bean dip?&quot;. So I did.
 
-    &lt;p&gt;While it’s cooking, sort through a cupboard and get rid of old papers, booklets for appliances we no longer have, old take away menus for restaurants that no longer exist, and so on. Save some of the papers because they might be interesting (letters to Dad, a picture of Mom, some other stuff). Find an old non-stick pot with the non-stick scraped awah on the bottom and set aside for disposal.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Heat some oil in a big skillet (a non-stick if you have a good one).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Toss in some chopped onions (bought that way) and let soften.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Chop up some baby portabellas and toss them in.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Dice up 2 chicken thighs.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Finish up a bottle of crushed garlic (about 1 tsp) by tossing it in the pan.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Add 1/2 tsp of crushed bottled ginger root.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Stir them all around in the pan for a bit.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Toss in a handful of broccoli slaw.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Toss in a handful of shredded cabbage (cole slaw mix).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Push that shit around for awhile.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Finish up a bag of frozen mixed veggies (not very much).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Add a handful of frozen peas.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Splash in some rice vinegar.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Stir and cook.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Add some spices: curry powder, ground cloves, turmeric, and stir those in and let sit for a bit.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Make a hole in the mix, dump in the diced chicken. Salt &amp;amp; pepper the chicken, and cook.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;As chicken is cooked, stir it into the veggies. Give this a good minute or so of stirring gently, from edges to center.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Dump in 1 cup of the cooked rice, and mix it in.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Add another splace of rice vinegar.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Finish off the bottle of tamari, maybe 2 ounces?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Give it 2 squirts of sesame oil, not a lot.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Stir it all together again, turn off the heat, cover and let sit for about 10 minutes.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Serve with a handful of dry roasted peanuts and a sprinkle of dried diced chives.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+## Ingredients
 
-&lt;p&gt;So, what would you call this? Maybe some kind of fried rice veggie and chicken stir fry??&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="gluten-free" /><category term="chicken" /><category term="rice" /><category term="veggies" /><summary type="html">I just made some lunch for myself and it was stream-of-concsiousness cooking.</summary></entry><entry><title type="html">Mung Bean Crepes</title><link href="http://tamouse.github.io//recipes/main-dishes/2019/02/17/mung-bean-crepes.html" rel="alternate" type="text/html" title="Mung Bean Crepes" /><published>2019-02-17T11:13:00-06:00</published><updated>2019-02-17T11:13:00-06:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2019/02/17/mung-bean-crepes</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2019/02/17/mung-bean-crepes.html">&lt;p&gt;Mung beans turn up in various guises in Asian cooking, with fresh sprouts being the most common form. This favorite dish of southern Vietnam uses yellow mung beans—split dried green mung beans with their husks removed. Nuoc cham is a condiment offered as an accompaniment to myriad Vietnamese dishes, such as these crepes.&lt;/p&gt;
+- 2 15oz. cans of beans, rinsed and drained. I used one can of black beans and one can of kidney beans, you do you.
+- 1 15oz. can of diced tomatoes, drained.
+- 1 small can green chilis.
+- salt and pepper
+- ground cumin
+- chili powder
+- red pepper flakes
+- chipotle seasoning
 
-&lt;h1 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h1&gt;
+## Directions
 
-&lt;h2 id=&quot;for-the-nuoc-cham&quot;&gt;For the nuoc cham:&lt;/h2&gt;
+1. get out food processor and set it up.
 
-&lt;ul&gt;
-  &lt;li&gt;3 garlic cloves, chopped&lt;/li&gt;
-  &lt;li&gt;1 1⁄2 Tbs. sugar&lt;/li&gt;
-  &lt;li&gt;3 Tbs. fish sauce&lt;/li&gt;
-  &lt;li&gt;2 Tbs. rice vinegar&lt;/li&gt;
-  &lt;li&gt;2 Tbs. fresh lime juice&lt;/li&gt;
-  &lt;li&gt;1/4 cup water&lt;/li&gt;
-  &lt;li&gt;1 serrano chili, seeded and thinly sliced  on the diagonal&lt;/li&gt;
-  &lt;li&gt;1 Tbs. grated carrot&lt;/li&gt;
-  &lt;li&gt;1 Tbs. grated daikon&lt;/li&gt;
-&lt;/ul&gt;
+2. find out food processor was put away filthy. take apart food processor and wash thoroughly, dry, and set up again.
 
-&lt;h2 id=&quot;for-the-crepes&quot;&gt;For the crepes&lt;/h2&gt;
+3. open up all the cans.
 
-&lt;ul&gt;
-  &lt;li&gt;1⁄2 cup dried yellow mung beans&lt;/li&gt;
-  &lt;li&gt;1 1⁄2 cups coconut milk&lt;/li&gt;
-  &lt;li&gt;3⁄4 cup rice flour&lt;/li&gt;
-  &lt;li&gt;2 1⁄2 tsp. sugar&lt;/li&gt;
-  &lt;li&gt;1⁄2 tsp. salt&lt;/li&gt;
-  &lt;li&gt;1/2 tsp. ground turmeric&lt;/li&gt;
-  &lt;li&gt;1 lb. shrimp, peeled and deveined&lt;/li&gt;
-  &lt;li&gt;2 1⁄2 Tbs. fish sauce&lt;/li&gt;
-  &lt;li&gt;3 garlic cloves, minced&lt;/li&gt;
-  &lt;li&gt;1⁄4 tsp. freshly ground pepper&lt;/li&gt;
-  &lt;li&gt;1 large yellow onion&lt;/li&gt;
-  &lt;li&gt;10 fresh button mushrooms&lt;/li&gt;
-  &lt;li&gt;5 Tbs. canola oil, or as needed&lt;/li&gt;
-  &lt;li&gt;2 cups mung bean sprouts&lt;/li&gt;
-  &lt;li&gt;1 head red-leaf lettuce, leaves separated&lt;/li&gt;
-  &lt;li&gt;1⁄2 cup fresh mint sprigs&lt;/li&gt;
-  &lt;li&gt;1/2 cup fresh cilantro sprigs&lt;/li&gt;
-  &lt;li&gt;1/2 cup fresh Thai basil leaves&lt;/li&gt;
-&lt;/ul&gt;
+4. wash and rinse one can of beans at a time, or like i did, dump both cans in the strainer and find out it's too big and spills beans all over when doing the next step.
 
-&lt;h1 id=&quot;directions&quot;&gt;Directions:&lt;/h1&gt;
+5. dump the washed and rinsed beans in the food processor.
 
-&lt;p&gt;To make the nuoc cham, using a mortar and pestle, grind together the garlic and sugar until a paste forms. Alternatively, combine the ingredients in a mini food processor and process to a paste. Transfer to a bowl and whisk in the fish sauce, rice vinegar, lime juice and water. Pour through a fine-mesh sieve into a clean bowl and add the chili, carrot and daikon. Set aside.&lt;/p&gt;
+6. drain the tomatoes, and dump into the food processor.
 
-&lt;p&gt;Pick over the mung beans, discarding any misshapen beans or grit. Rinse the beans, put in a bowl and add boiling water. Let soak for 30 minutes, then drain.&lt;/p&gt;
+7. dump in the green chilis. (you can see where this is heading, i think).
 
-&lt;p&gt;In a blender, combine the soaked beans and coconut milk and puree until smooth. Add the rice flour, 1 1⁄2 tsp. of the sugar, the salt and turmeric. Process until well mixed. Pour the mung bean batter through a fine-mesh sieve placed over a bowl, cover and refrigerate until ready to use.&lt;/p&gt;
+8. add the seasonings and spices that you see fit. this is what was in the spice rack.
 
-&lt;p&gt;In a bowl, combine the shrimp, fish sauce, garlic, the remaining 1 tsp. sugar and the pepper and stir well. Let stand for 30 minutes.&lt;/p&gt;
+9. pulse to stir up the ingredients, then run for a few seconds to mess up that dip.
 
-&lt;p&gt;Thinly slice the onion. Remove the stems from the mushrooms and thinly slice the caps.&lt;/p&gt;
+10. realize this makes way more than you as a single eater can manage to eat in a lifetime. freeze the rest to save for that big gathering happening at the end of the month. they'll eat it, sure.
 
-&lt;p&gt;In a large sauté pan over high heat, warm 2 Tbs. of the canola oil. Add the onion and sauté until light golden brown, 4 to 5 minutes. Add the mushrooms and sauté until they begin to wilt, about 5 minutes. Transfer to a bowl and add the bean sprouts to the bowl.&lt;/p&gt;
+11. soak the food processor parts overnight and thoroughly clean that puppy.</content><author><name>Tamara Temple</name></author><category term="beans" /><category term="bean-dip" /><category term="dips" /><category term="appetizers" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">I wanted something that was gluten-free and dairy-free to snack on one evening, and didn’t really want popcorn, my typical go-to these days, and thought “Hey, I have some tortilla chips, I have a couple cans of beans, why not make some bean dip?”. So I did.</summary></entry><entry><title type="html">What did I just cook?</title><link href="http://localhost:4000/recipes/main-dishes/2019/03/01/what-did-i-just-cook.html" rel="alternate" type="text/html" title="What did I just cook?" /><published>2019-03-01T16:22:00-06:00</published><updated>2019-03-01T16:22:00-06:00</updated><id>http://localhost:4000/recipes/main-dishes/2019/03/01/what-did-i-just-cook</id><content type="html" xml:base="http://localhost:4000/recipes/main-dishes/2019/03/01/what-did-i-just-cook.html">I just made some lunch for myself and it was stream-of-concsiousness cooking.
 
-&lt;p&gt;Wipe the pan with paper towels, return it to high heat and warm 1 Tbs. of the canola oil. Add the shrimp and their marinade and sauté until they turn opaque and are cooked through, about 5 minutes. Add to the mushroom mixture.&lt;/p&gt;
 
-&lt;p&gt;In a 10-inch nonstick fry pan over medium heat, warm 2 Tbs. of the canola oil. When the oil is hot, pour in 1⁄4 cup batter and quickly swirl to cover the pan bottom evenly. Cook until the crepe is crisp and brown at the edges and set in the middle, 5 to 7 minutes. Remove from the heat and, using a wide spatula, slide the crepe, crisp side down, onto a platter. Spread 3 heaping Tbs. of the mushroom mixture onto half of the crepe. Carefully fold the crepe over the filling. Repeat to make 3 or 4 more crepes, adding more oil to the pan if needed and evenly distributing the shrimp among the crepes.&lt;/p&gt;
+1. Cook some rice. 2 cups water to 1 cup rice. Cover, boil, stir, reduce the heat, and cover. Stir it up every 5 minutes, and cook for 15 minutes. I turned the heat all the way off for the last 5 minutes. Stir it again at the end, and remove it from the heat.
 
-&lt;p&gt;Arrange the lettuce, mint, cilantro and basil on plates. The crepes are cut in half, and diners wrap each half with lettuce, garnish with fresh herbs and drizzle with nuoc cham.&lt;/p&gt;
+   While it's cooking, sort through a cupboard and get rid of old papers, booklets for appliances we no longer have, old take away menus for restaurants that no longer exist, and so on. Save some of the papers because they might be interesting (letters to Dad, a picture of Mom, some other stuff). Find an old non-stick pot with the non-stick scraped awah on the bottom and set aside for disposal.
 
-&lt;h1 id=&quot;notes&quot;&gt;Notes&lt;/h1&gt;
+1. Heat some oil in a big skillet (a non-stick if you have a good one).
 
-&lt;p&gt;Adapted from Williams-Sonoma Collection Series, Asian, by Farina Wong Kingsley (Simon &amp;amp; Schuster, 2003).&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="gluten-free" /><category term="mung-beans" /><category term="crepes" /><category term="shrimp" /><summary type="html">Mung beans turn up in various guises in Asian cooking, with fresh sprouts being the most common form. This favorite dish of southern Vietnam uses yellow mung beans—split dried green mung beans with their husks removed. Nuoc cham is a condiment offered as an accompaniment to myriad Vietnamese dishes, such as these crepes.</summary></entry><entry><title type="html">Curried Vegetables</title><link href="http://tamouse.github.io//recipes/side-dishes/2019/01/23/curried-vegetables.html" rel="alternate" type="text/html" title="Curried Vegetables" /><published>2019-01-23T20:38:00-06:00</published><updated>2019-01-23T20:38:00-06:00</updated><id>http://tamouse.github.io//recipes/side-dishes/2019/01/23/curried-vegetables</id><content type="html" xml:base="http://tamouse.github.io//recipes/side-dishes/2019/01/23/curried-vegetables.html">&lt;p&gt;I make this &lt;em&gt;without&lt;/em&gt; the jalapeno peppers.&lt;/p&gt;
+1. Toss in some chopped onions (bought that way) and let soften.
 
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+1. Chop up some baby portabellas and toss them in.
 
-&lt;ul&gt;
-  &lt;li&gt;3 tablespoons olive oil&lt;/li&gt;
-  &lt;li&gt;1 tablespoon curry powder&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon cumin seeds&lt;/li&gt;
-  &lt;li&gt;1 eggplant, cubed&lt;/li&gt;
-  &lt;li&gt;3 jalapeno peppers, seeded and minced&lt;/li&gt;
-  &lt;li&gt;4 Yukon Gold potatoes, cubed&lt;/li&gt;
-  &lt;li&gt;3 tomatoes, diced&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon salt&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon chili powder&lt;/li&gt;
-  &lt;li&gt;1/2 teaspoon ground turmeric&lt;/li&gt;
-  &lt;li&gt;1/4 cup chopped fresh cilantro&lt;/li&gt;
-&lt;/ul&gt;
+1. Dice up 2 chicken thighs.
 
-&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+1. Finish up a bottle of crushed garlic (about 1 tsp) by tossing it in the pan.
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;In a Dutch oven or large pot over medium heat, heat oil with curry powder and cumin until aromatic.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Stir in eggplant, jalapenos, potatoes, tomatoes, salt, chili powder and turmeric.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cover and cook 30 to 45 minutes, adding water if necessary to maintain a stew-like consistency.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sprinkle with cilantro before serving.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="curry" /><category term="veggies" /><category term="potatoes" /><category term="tomatoes" /><category term="peppers" /><summary type="html">I make this without the jalapeno peppers.</summary></entry><entry><title type="html">Roasted Vegetables</title><link href="http://tamouse.github.io//recipes/side-dishes/2019/01/23/roasted-vegetables.html" rel="alternate" type="text/html" title="Roasted Vegetables" /><published>2019-01-23T20:33:00-06:00</published><updated>2019-01-23T20:33:00-06:00</updated><id>http://tamouse.github.io//recipes/side-dishes/2019/01/23/roasted-vegetables</id><content type="html" xml:base="http://tamouse.github.io//recipes/side-dishes/2019/01/23/roasted-vegetables.html">&lt;p&gt;“A casserole dish of seasonal vegetables that is so easy to prepare. It can be made a day ahead - just reheat before serving. Lemon juice can be substituted for balsamic vinegar, and you can use baking potatoes if you don’t have any Yukon Golds on hand.”&lt;/p&gt;
+1. Add 1/2 tsp of crushed bottled ginger root.
 
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;1 small butternut squash, cubed&lt;/li&gt;
-  &lt;li&gt;2 red bell peppers, seeded and diced&lt;/li&gt;
-  &lt;li&gt;1 sweet potato, peeled and cubed&lt;/li&gt;
-  &lt;li&gt;3 Yukon Gold potatoes, cubed&lt;/li&gt;
-  &lt;li&gt;1 red onion, quartered&lt;/li&gt;
-  &lt;li&gt;1 tablespoon chopped fresh thyme&lt;/li&gt;
-  &lt;li&gt;2 tablespoons chopped fresh rosemary&lt;/li&gt;
-  &lt;li&gt;1/4 cup olive oil&lt;/li&gt;
-  &lt;li&gt;2 tablespoons balsamic vinegar&lt;/li&gt;
-  &lt;li&gt;salt and freshly ground black pepper&lt;/li&gt;
-&lt;/ul&gt;
+1. Stir them all around in the pan for a bit.
 
-&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+1. Toss in a handful of broccoli slaw.
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Preheat oven to 475 degrees F (245 degrees C).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In a large bowl, combine the squash, red bell peppers, sweet potato, and Yukon Gold potatoes. Separate the red onion quarters into pieces, and add them to the mixture.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In a small bowl, stir together thyme, rosemary, olive oil, vinegar, salt, and pepper. Toss with vegetables until they are coated. Spread evenly on a large roasting pan.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Roast for 35 to 40 minutes in the preheated oven, stirring every 10 minutes, or until vegetables are cooked through and browned.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="veggies" /><category term="roasting" /><category term="potatoes" /><category term="butternut-squash" /><category term="bell-peppers" /><category term="red-onion" /><summary type="html">“A casserole dish of seasonal vegetables that is so easy to prepare. It can be made a day ahead - just reheat before serving. Lemon juice can be substituted for balsamic vinegar, and you can use baking potatoes if you don’t have any Yukon Golds on hand.”</summary></entry><entry><title type="html">Chicken Soup, Plain Ol’</title><link href="http://tamouse.github.io//recipes/soups/2017/12/30/chicken-soup-plain-ol.html" rel="alternate" type="text/html" title="Chicken Soup, Plain Ol'" /><published>2017-12-30T17:54:00-06:00</published><updated>2017-12-30T17:54:00-06:00</updated><id>http://tamouse.github.io//recipes/soups/2017/12/30/chicken-soup-plain-ol</id><content type="html" xml:base="http://tamouse.github.io//recipes/soups/2017/12/30/chicken-soup-plain-ol.html">&lt;p&gt;This is just plain, old, chicken soup from scratch&lt;/p&gt;
+1. Toss in a handful of shredded cabbage (cole slaw mix).
 
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+1. Push that shit around for awhile.
 
-&lt;ul&gt;
-  &lt;li&gt;2 chicken breasts, cubed&lt;/li&gt;
-  &lt;li&gt;2 carrots, quartered&lt;/li&gt;
-  &lt;li&gt;2 celery stalks, halved&lt;/li&gt;
-  &lt;li&gt;1 onion, quartered&lt;/li&gt;
-  &lt;li&gt;1 package Knorr chicken soup start&lt;/li&gt;
-  &lt;li&gt;salt and pepper to taste&lt;/li&gt;
-  &lt;li&gt;bay leaf&lt;/li&gt;
-  &lt;li&gt;water to cover&lt;/li&gt;
-&lt;/ul&gt;
+1. Finish up a bag of frozen mixed veggies (not very much).
 
-&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+1. Add a handful of frozen peas.
 
-&lt;ol&gt;
-  &lt;li&gt;Put all ingredients into a pot with water to cover by about an inch&lt;/li&gt;
-  &lt;li&gt;Bring water to boil, cover, and set to simmer for maybe an hour&lt;/li&gt;
-  &lt;li&gt;Using a large collandar, strain the broth into a large pot&lt;/li&gt;
-  &lt;li&gt;Chop the vegetables and return to the pot&lt;/li&gt;
-  &lt;li&gt;Salt and pepper to taste&lt;/li&gt;
-  &lt;li&gt;Warm the soup ingredients through and serve&lt;/li&gt;
-&lt;/ol&gt;
+1. Splash in some rice vinegar.
 
-&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+1. Stir and cook.
 
-&lt;p&gt;This ↑ is what I did the last time I made this.&lt;/p&gt;
+1. Add some spices: curry powder, ground cloves, turmeric, and stir those in and let sit for a bit.
 
-&lt;h3 id=&quot;additionsmods&quot;&gt;Additions/Mods&lt;/h3&gt;
+1. Make a hole in the mix, dump in the diced chicken. Salt &amp; pepper the chicken, and cook.
 
-&lt;ul&gt;
-  &lt;li&gt;miso and/or soy/tahini to make a base for ramen&lt;/li&gt;
-  &lt;li&gt;noodles, rice, potatoes, etc., to give the soup some body, but it’s
-pretty good on its own, too&lt;/li&gt;
-  &lt;li&gt;could use skin-on thighs for more flavor, but you have to skim the
-fat, too&lt;/li&gt;
-  &lt;li&gt;white wine&lt;/li&gt;
-  &lt;li&gt;tinned broth&lt;/li&gt;
-  &lt;li&gt;bouillon&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Tamara Temple</name></author><category term="soup" /><category term="chicken" /><summary type="html">This is just plain, old, chicken soup from scratch</summary></entry><entry><title type="html">pear or apple cobbler</title><link href="http://tamouse.github.io//recipes/desserts/2017/12/22/pear-or-apple-cobbler.html" rel="alternate" type="text/html" title="pear or apple cobbler" /><published>2017-12-22T23:08:00-06:00</published><updated>2017-12-22T23:08:00-06:00</updated><id>http://tamouse.github.io//recipes/desserts/2017/12/22/pear-or-apple-cobbler</id><content type="html" xml:base="http://tamouse.github.io//recipes/desserts/2017/12/22/pear-or-apple-cobbler.html">&lt;p&gt;“A baked pear or apple recipe with a crunchy oatmeal cobbler-like topping. Simple and tasty. Serve warm with vanilla ice cream. Yummy!”&lt;/p&gt;
+1. As chicken is cooked, stir it into the veggies. Give this a good minute or so of stirring gently, from edges to center.
 
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+1. Dump in 1 cup of the cooked rice, and mix it in.
 
-&lt;ul&gt;
-  &lt;li&gt;4 pears, cored and cut into 1/2-inch slices&lt;/li&gt;
-  &lt;li&gt;1 teaspoon lemon juice&lt;/li&gt;
-  &lt;li&gt;1/3 cup maple syrup&lt;/li&gt;
-  &lt;li&gt;2 tablespoons melted butter&lt;/li&gt;
-&lt;/ul&gt;
+1. Add another splace of rice vinegar.
 
-&lt;h3 id=&quot;topping&quot;&gt;Topping&lt;/h3&gt;
+1. Finish off the bottle of tamari, maybe 2 ounces?
 
-&lt;ul&gt;
-  &lt;li&gt;1 cup rolled oats&lt;/li&gt;
-  &lt;li&gt;1 cup brown sugar&lt;/li&gt;
-  &lt;li&gt;1/2 cup melted butter&lt;/li&gt;
-  &lt;li&gt;1/2 cup all-purpose flour&lt;/li&gt;
-  &lt;li&gt;1 teaspoon ground cinnamon&lt;/li&gt;
-&lt;/ul&gt;
+1. Give it 2 squirts of sesame oil, not a lot.
 
-&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+1. Stir it all together again, turn off the heat, cover and let sit for about 10 minutes.
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Preheat oven to 375 degrees F (190 degrees C).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Toss pears and lemon juice together in a bowl until coated; spread
-into a 9x9-inch baking dish. Pour maple syrup and 2 tablespoons
-melted butter over pear mixture; toss to coat.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mix oats, brown sugar, 1/2 cup melted butter, flour, and cinnamon
-together in a bowl until crumbly; sprinkle over pear mixture.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Bake in the preheated oven until crust is golden and pears are
-tender, about 45 minutes.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+1. Serve with a handful of dry roasted peanuts and a sprinkle of dried diced chives.
 
-&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+So, what would you call this? Maybe some kind of fried rice veggie and chicken stir fry??</content><author><name>Tamara Temple</name></author><category term="gluten-free" /><category term="chicken" /><category term="rice" /><category term="veggies" /><category term="stuff" /><summary type="html">I just made some lunch for myself and it was stream-of-concsiousness cooking.</summary></entry><entry><title type="html">Mung Bean Crepes</title><link href="http://localhost:4000/recipes/main-dishes/2019/02/17/mung-bean-crepes.html" rel="alternate" type="text/html" title="Mung Bean Crepes" /><published>2019-02-17T11:13:00-06:00</published><updated>2019-02-17T11:13:00-06:00</updated><id>http://localhost:4000/recipes/main-dishes/2019/02/17/mung-bean-crepes</id><content type="html" xml:base="http://localhost:4000/recipes/main-dishes/2019/02/17/mung-bean-crepes.html">Mung beans turn up in various guises in Asian cooking, with fresh sprouts being the most common form. This favorite dish of southern Vietnam uses yellow mung beans—split dried green mung beans with their husks removed. Nuoc cham is a condiment offered as an accompaniment to myriad Vietnamese dishes, such as these crepes.
 
-&lt;ul&gt;
-  &lt;li&gt;Prep time: 15 minutes&lt;/li&gt;
-  &lt;li&gt;Cooking time: 45 minutes&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Tamara Temple</name></author><category term="pears" /><category term="apples" /><category term="brown-sugar" /><category term="rolled-oats" /><category term="maple-syrup" /><category term="cinnamon" /><category term="butter" /><summary type="html">“A baked pear or apple recipe with a crunchy oatmeal cobbler-like topping. Simple and tasty. Serve warm with vanilla ice cream. Yummy!”</summary></entry></feed>
+# Ingredients:
+
+## For the nuoc cham:
+
+- 3 garlic cloves, chopped
+- 1 1⁄2 Tbs. sugar
+- 3 Tbs. fish sauce
+- 2 Tbs. rice vinegar
+- 2 Tbs. fresh lime juice
+- 1/4 cup water
+- 1 serrano chili, seeded and thinly sliced  on the diagonal
+- 1 Tbs. grated carrot
+- 1 Tbs. grated daikon
+
+## For the crepes
+
+- 1⁄2 cup dried yellow mung beans
+- 1 1⁄2 cups coconut milk
+- 3⁄4 cup rice flour
+- 2 1⁄2 tsp. sugar
+- 1⁄2 tsp. salt
+- 1/2 tsp. ground turmeric
+- 1 lb. shrimp, peeled and deveined
+- 2 1⁄2 Tbs. fish sauce
+- 3 garlic cloves, minced
+- 1⁄4 tsp. freshly ground pepper
+- 1 large yellow onion
+- 10 fresh button mushrooms
+- 5 Tbs. canola oil, or as needed
+- 2 cups mung bean sprouts
+- 1 head red-leaf lettuce, leaves separated
+- 1⁄2 cup fresh mint sprigs
+- 1/2 cup fresh cilantro sprigs
+- 1/2 cup fresh Thai basil leaves
+
+# Directions:
+
+To make the nuoc cham, using a mortar and pestle, grind together the garlic and sugar until a paste forms. Alternatively, combine the ingredients in a mini food processor and process to a paste. Transfer to a bowl and whisk in the fish sauce, rice vinegar, lime juice and water. Pour through a fine-mesh sieve into a clean bowl and add the chili, carrot and daikon. Set aside.
+
+Pick over the mung beans, discarding any misshapen beans or grit. Rinse the beans, put in a bowl and add boiling water. Let soak for 30 minutes, then drain.
+
+In a blender, combine the soaked beans and coconut milk and puree until smooth. Add the rice flour, 1 1⁄2 tsp. of the sugar, the salt and turmeric. Process until well mixed. Pour the mung bean batter through a fine-mesh sieve placed over a bowl, cover and refrigerate until ready to use.
+
+In a bowl, combine the shrimp, fish sauce, garlic, the remaining 1 tsp. sugar and the pepper and stir well. Let stand for 30 minutes.
+
+Thinly slice the onion. Remove the stems from the mushrooms and thinly slice the caps.
+
+In a large sauté pan over high heat, warm 2 Tbs. of the canola oil. Add the onion and sauté until light golden brown, 4 to 5 minutes. Add the mushrooms and sauté until they begin to wilt, about 5 minutes. Transfer to a bowl and add the bean sprouts to the bowl.
+
+Wipe the pan with paper towels, return it to high heat and warm 1 Tbs. of the canola oil. Add the shrimp and their marinade and sauté until they turn opaque and are cooked through, about 5 minutes. Add to the mushroom mixture.
+
+In a 10-inch nonstick fry pan over medium heat, warm 2 Tbs. of the canola oil. When the oil is hot, pour in 1⁄4 cup batter and quickly swirl to cover the pan bottom evenly. Cook until the crepe is crisp and brown at the edges and set in the middle, 5 to 7 minutes. Remove from the heat and, using a wide spatula, slide the crepe, crisp side down, onto a platter. Spread 3 heaping Tbs. of the mushroom mixture onto half of the crepe. Carefully fold the crepe over the filling. Repeat to make 3 or 4 more crepes, adding more oil to the pan if needed and evenly distributing the shrimp among the crepes.
+
+Arrange the lettuce, mint, cilantro and basil on plates. The crepes are cut in half, and diners wrap each half with lettuce, garnish with fresh herbs and drizzle with nuoc cham.
+
+
+# Notes
+
+Adapted from Williams-Sonoma Collection Series, Asian, by Farina Wong Kingsley (Simon &amp; Schuster, 2003).</content><author><name>Tamara Temple</name></author><category term="gluten-free" /><category term="mung-beans" /><category term="crepes" /><category term="shrimp" /><summary type="html">Mung beans turn up in various guises in Asian cooking, with fresh sprouts being the most common form. This favorite dish of southern Vietnam uses yellow mung beans—split dried green mung beans with their husks removed. Nuoc cham is a condiment offered as an accompaniment to myriad Vietnamese dishes, such as these crepes.</summary></entry><entry><title type="html">Curried Vegetables</title><link href="http://localhost:4000/recipes/side-dishes/2019/01/23/curried-vegetables.html" rel="alternate" type="text/html" title="Curried Vegetables" /><published>2019-01-23T20:38:00-06:00</published><updated>2019-01-23T20:38:00-06:00</updated><id>http://localhost:4000/recipes/side-dishes/2019/01/23/curried-vegetables</id><content type="html" xml:base="http://localhost:4000/recipes/side-dishes/2019/01/23/curried-vegetables.html">I make this *without* the jalapeno peppers.
+
+## Ingredients
+
+- 3 tablespoons olive oil
+- 1 tablespoon curry powder
+- 1/2 teaspoon cumin seeds
+- 1 eggplant, cubed
+- 3 jalapeno peppers, seeded and minced
+- 4 Yukon Gold potatoes, cubed
+- 3 tomatoes, diced
+- 1/2 teaspoon salt
+- 1/2 teaspoon chili powder
+- 1/2 teaspoon ground turmeric
+- 1/4 cup chopped fresh cilantro
+
+## Directions
+
+1. In a Dutch oven or large pot over medium heat, heat oil with curry powder and cumin until aromatic.
+
+2. Stir in eggplant, jalapenos, potatoes, tomatoes, salt, chili powder and turmeric.
+
+3. Cover and cook 30 to 45 minutes, adding water if necessary to maintain a stew-like consistency.
+
+4. Sprinkle with cilantro before serving.</content><author><name>Tamara Temple</name></author><category term="curry" /><category term="veggies" /><category term="potatoes" /><category term="tomatoes" /><category term="peppers" /><summary type="html">I make this without the jalapeno peppers.</summary></entry><entry><title type="html">Roasted Vegetables</title><link href="http://localhost:4000/recipes/side-dishes/2019/01/23/roasted-vegetables.html" rel="alternate" type="text/html" title="Roasted Vegetables" /><published>2019-01-23T20:33:00-06:00</published><updated>2019-01-23T20:33:00-06:00</updated><id>http://localhost:4000/recipes/side-dishes/2019/01/23/roasted-vegetables</id><content type="html" xml:base="http://localhost:4000/recipes/side-dishes/2019/01/23/roasted-vegetables.html">&quot;A casserole dish of seasonal vegetables that is so easy to prepare. It can be made a day ahead - just reheat before serving. Lemon juice can be substituted for balsamic vinegar, and you can use baking potatoes if you don't have any Yukon Golds on hand.&quot;
+
+## Ingredients
+- 1 small butternut squash, cubed
+- 2 red bell peppers, seeded and diced
+- 1 sweet potato, peeled and cubed
+- 3 Yukon Gold potatoes, cubed
+- 1 red onion, quartered
+- 1 tablespoon chopped fresh thyme
+- 2 tablespoons chopped fresh rosemary
+- 1/4 cup olive oil
+- 2 tablespoons balsamic vinegar
+- salt and freshly ground black pepper
+
+## Directions
+
+1. Preheat oven to 475 degrees F (245 degrees C).
+
+2. In a large bowl, combine the squash, red bell peppers, sweet potato, and Yukon Gold potatoes. Separate the red onion quarters into pieces, and add them to the mixture.
+
+3. In a small bowl, stir together thyme, rosemary, olive oil, vinegar, salt, and pepper. Toss with vegetables until they are coated. Spread evenly on a large roasting pan.
+
+4. Roast for 35 to 40 minutes in the preheated oven, stirring every 10 minutes, or until vegetables are cooked through and browned.</content><author><name>Tamara Temple</name></author><category term="veggies" /><category term="roasting" /><category term="potatoes" /><category term="butternut-squash" /><category term="bell-peppers" /><category term="red-onion" /><summary type="html">“A casserole dish of seasonal vegetables that is so easy to prepare. It can be made a day ahead - just reheat before serving. Lemon juice can be substituted for balsamic vinegar, and you can use baking potatoes if you don’t have any Yukon Golds on hand.”</summary></entry><entry><title type="html">Chicken Soup, Plain Ol’</title><link href="http://localhost:4000/recipes/soups/2017/12/30/chicken-soup-plain-ol.html" rel="alternate" type="text/html" title="Chicken Soup, Plain Ol'" /><published>2017-12-30T17:54:00-06:00</published><updated>2017-12-30T17:54:00-06:00</updated><id>http://localhost:4000/recipes/soups/2017/12/30/chicken-soup-plain-ol</id><content type="html" xml:base="http://localhost:4000/recipes/soups/2017/12/30/chicken-soup-plain-ol.html">This is just plain, old, chicken soup from scratch
+
+## Ingredients
+
+* 2 chicken breasts, cubed
+* 2 carrots, quartered
+* 2 celery stalks, halved
+* 1 onion, quartered
+* 1 package Knorr chicken soup start
+* salt and pepper to taste
+* bay leaf
+* water to cover
+
+## Directions
+
+1. Put all ingredients into a pot with water to cover by about an inch
+2. Bring water to boil, cover, and set to simmer for maybe an hour
+3. Using a large collandar, strain the broth into a large pot
+4. Chop the vegetables and return to the pot
+5. Salt and pepper to taste
+6. Warm the soup ingredients through and serve
+
+## Notes
+
+This &amp;uarr; is what I did the last time I made this.
+
+### Additions/Mods
+
+- miso and/or soy/tahini to make a base for ramen
+- noodles, rice, potatoes, etc., to give the soup some body, but it's
+  pretty good on its own, too
+- could use skin-on thighs for more flavor, but you have to skim the
+  fat, too
+- white wine
+- tinned broth
+- bouillon</content><author><name>Tamara Temple</name></author><category term="soup" /><category term="chicken" /><summary type="html">This is just plain, old, chicken soup from scratch</summary></entry></feed>

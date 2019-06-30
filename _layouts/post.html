@@ -2,32 +2,41 @@
 layout: default
 ---
 
-<article>
-<div class="page-header">
-  <h2>
-    {{page.title}}
-    <small>{{page.date | date: "%d-%b-%Y"}}</small>
-  </h2>
-  <div class="page-meta">
-    <ul class="nav nav-pills">
-    {% if page.categories %}<li class="disabled" role="presentation"><a href="#">Categories:</a></li>{% for cat in page.categories %}<li role="presentation"><a href="{{site.baseurl}}/category/{{cat}}/">{{cat}}</a></li>{% endfor %}{% endif %}
-    {% if page.tags %}<li class="disabled" role="presentation"><a href="#">Tags:</a></li>{% for tag in page.tags %}<li role="presentation"><a href="{{site.baseurl}}/tag/{{tag}}/">{{tag}}</a></li>{% endfor %}{% endif %}
-    </ul>
-  </div>
-</div>
-{{content}}
-</article>
+<div class="recipe-card">
+  <article>
+    <h2>
+      {{page.title}}
+      <small>{{page.date | date: "%d-%b-%Y"}}</small>
+    </h2>
+    <div class="page-meta navmenu">
+      {% if page.categories %}
+      <strong>Categories:</strong>
+      {% for cat in page.categories %}
+      <a href="{{site.baseurl}}/category/{{cat}}/">{{cat}}</a>
+      {% endfor %}
+      {% endif %}
+      {% if page.tags %}
+      <strong>Tags:</strong>
+      {% for tag in page.tags %}
+      <a href="{{site.baseurl}}/tag/{{tag}}/">{{tag}}</a>
+      {% endfor %}
+      {% endif %}
+    </div>
+    {{content}}
+  </article>
 
-{% if page.external_url %}
-<section id="source">
-  <strong>Source:</strong>
-  <a href="{{page.external_url}}">{{page.external_url}}</a>
-</section>
-{% else %}
-{% if page.source %}
-<section id="source">
-  <strong>Source:</strong>
-  <a href="{{page.source}}">{{page.source}}</a>
-</section>
-{% endif %}
-{% endif %}
+  {% if page.external_url %}
+  <section id="source">
+    <strong>Source:</strong>
+    <a href="{{page.external_url}}">{{page.external_url}}</a>
+  </section>
+  {% else %}
+  {% if page.source %}
+  <section id="source">
+    <strong>Source:</strong>
+    <a href="{{page.source}}">{{page.source}}</a>
+  </section>
+  {% endif %}
+  {% endif %}
+
+</div>

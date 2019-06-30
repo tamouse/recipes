@@ -1,0 +1,13 @@
+---
+layout: page
+title: "Tags"
+navbar: true
+---
+{% assign tag_list = site.tags | sort %}
+<div class="recipe-grid">
+{% for tag in tag_list %}
+<div class="recipe-card">
+  <a href="{{site.baseurl}}/tag/{{tag.first}}/index.html">{{tag.first}}</a>
+</div>
+{% endfor %}
+</div>

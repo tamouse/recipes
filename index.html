@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<div class="row">
-  {% for post in site.posts  %}
-  <div class="col-md-4">
-    {% include index_item.html %}
-  </div>
-  {% endfor %}
+<div class="recipe-grid">
+  {% for post in site.posts  %}{% include index_item.html %}{% endfor %}
 </div>

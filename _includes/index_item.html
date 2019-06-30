@@ -1,8 +1,10 @@
-{% if post.date %}<h4>{{post.date | date: "%d-%b-%Y"}}</h4>{% endif %}
-<h3 class="post-index-title"><a href="{{site.baseurl | append: post.url}}">{{post.title}}</a></h3>
-<div class="post-meta">
-  {% if post.categories %}| {{post.categories}}{% endif %}
-  {% if post.tags %}| {% for tag in post.tags %}{{ tag }} | {% endfor %}{% endif %}
+<div class="recipe-card">
+  {% if post.date %}<h4>{{post.date | date: "%d-%b-%Y"}}</h4>{% endif %}
+  <h3 class="post-index-title"><a href="{{site.baseurl | append: post.url}}" title="{{post.title}}">{{post.title}}</a></h3>
+  <div class="post-meta">
+    {% if post.categories %}| {{post.categories}}{% endif %}
+    {% if post.tags %}| {% for tag in post.tags %}{{ tag }} | {% endfor %}{% endif %}
+  </div>
+  <div class="post-excerpt">{{post.excerpt | markdownify}}</div>
+  <p class="text-right"><a class="btn btn-default" href="{{site.baseurl | append: post.url }}" role="button">Read more &raquo;</a></p>
 </div>
-<div class="post-excerpt">{{post.excerpt | markdownify}}</div>
-<p class="text-right"><a class="btn btn-default" href="{{site.baseurl | append: post.url }}" role="button">Read more &raquo;</a></p>

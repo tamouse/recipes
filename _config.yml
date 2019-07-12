@@ -16,6 +16,7 @@ defaults:
   author: tamouse
 
 # Processing data
+source: source
 url: http://tamouse.github.io/
 baseurl: '/recipes'
 markdown: kramdown

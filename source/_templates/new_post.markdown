@@ -1,14 +1,11 @@
 ---
-layout: post
+layout: <%= @layout %>
 title: <%= @title %>
-date: <%= Time.now.strftime("%Y-%m-%d %H:%M") %>
+date: <%= @date %>T<%= @time %>
 categories: <%= @categories %>
 tags: <%= @tags %>
-external_url: <%= @url %>
-
+source: <%= @url %>
 ---
-
-Excerpt...
 
 ## Ingredients
 

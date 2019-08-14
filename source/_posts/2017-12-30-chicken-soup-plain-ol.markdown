@@ -3,7 +3,7 @@ layout: post
 title: Chicken Soup, Plain Ol'
 date: 2017-12-30 17:54
 categories: ["soups"]
-tags: ["soup", "chicken"]
+tags: ["soup", "chicken", dairy-free, gluten-free]
 ---
 
 This is just plain, old, chicken soup from scratch
@@ -34,9 +34,9 @@ This &uarr; is what I did the last time I made this.
 
 ### Additions/Mods
 
-- miso and/or soy/tahini to make a base for ramen
+- miso and/or soy/tahini to make a base for ramen (miso is not GF)
 - noodles, rice, potatoes, etc., to give the soup some body, but it's
-  pretty good on its own, too
+  pretty good on its own, too (use GF pasta)
 - could use skin-on thighs for more flavor, but you have to skim the
   fat, too
 - white wine

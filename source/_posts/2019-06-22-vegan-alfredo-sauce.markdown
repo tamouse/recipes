@@ -3,7 +3,7 @@ layout: post
 title: Vegan Alfredo Sauce
 date: 2019-06-22 14:58
 categories: ["sauces"]
-tags: ["vegan", "gluten-free", "cauliflower", "cashews", "coconut-milk"]
+tags: ["vegan", "dairy-free", "gluten-free", "cauliflower", "cashews", "coconut-milk"]
 external_url: https://veganhuggs.com/easy-vegan-alfredo-sauce/#wprm-recipe-container-12924
 
 ---

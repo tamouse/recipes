@@ -3,7 +3,7 @@ layout: post
 title: Cranberry-Orange Relish
 date: 2015-11-27 19:04
 categories: ["sauces"]
-tags: ["cranberry", "orange", "relish"]
+tags: ["cranberry", "orange", "relish", gluten-free, dairy-free]
 external_url: http://www.food.com/recipe/cranberry-orange-relish-47913
 ---
 

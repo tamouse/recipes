@@ -66,15 +66,17 @@ img.img-responsive {
       margin-left: 10px; }
 
 .page-content {
-  flex: 8;
-  margin: 0 2em; }
+  flex: 8; }
 
 .recipe-grid {
   display: grid;
-  grid-gap: 2rem;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  background-color: #dfc4b5;
+  color: #444; }
 
 .recipe-card {
+  background: #FFF;
   display: flex;
   flex-direction: column;
   align-items: left;
@@ -82,11 +84,6 @@ img.img-responsive {
   padding: 20px;
   border: 1px solid black;
   border-radius: 5px; }
-
-.post-index-title {
-  white-space: nowrap;
-  height: 36px;
-  overflow: hidden; }
 
 .post-excerpt {
   margin: 0 0 10px;

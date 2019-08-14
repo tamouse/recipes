@@ -6,6 +6,7 @@ categories: ["main-dishes"]
 tags:
   - stuff
   - gluten-free
+  - dairy-free
   - rice
   - chicken
   - fast

@@ -3,7 +3,7 @@ layout: post
 title: "Mung Bean Crepes"
 date: 2019-02-17 11:13
 categories: ["main-dishes"]
-tags: ["gluten-free", mung-beans, crepes, shrimp]
+tags: ["gluten-free", dary-free, mung-beans, crepes, shrimp]
 ---
 Mung beans turn up in various guises in Asian cooking, with fresh sprouts being the most common form. This favorite dish of southern Vietnam uses yellow mung beans—split dried green mung beans with their husks removed. Nuoc cham is a condiment offered as an accompaniment to myriad Vietnamese dishes, such as these crepes.
 

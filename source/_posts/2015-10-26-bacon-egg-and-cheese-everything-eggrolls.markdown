@@ -8,15 +8,17 @@ external_url: http://hostthetoast.com/bacon-egg-cheese-everything-egg-rolls/
 ---
 This sounds like it would make a rather awesome weekend finger-food breakfast for a group event of some sort.
 
+Try to make it GF and DF.
+
 ## Ingredients
 
 * 4 slices bacon
 * 5 eggs, divided
-* 1/4 cup milk
+* 1/4 cup milk (sub almond- or coconut milk)
 * Salt and pepper, to taste
-* 1/2 cup cheddar cheese, shredded
+* 1/2 cup cheddar cheese, shredded (maybe Daiya shreds)
 * 1 bunch chives, chopped
-* 6 egg roll wrappers
+* 6 egg roll wrappers (not usually GF, maybe rice papers?)
 * 2 teaspoons poppy seeds
 * 2 teaspoons sesame seeds
 * 2 teaspoons dried onion flakes

@@ -11,9 +11,9 @@ tags:
 source: http://allrecipes.com/recipe/23159/pastitsio-ii/print/?recipeType=Recipe&servings=8&isMetric=false
 ---
 
-To try.
-
 "Makes a lot and is just incredible. Everyone loves this dish and it is worth the effort."
+
+This recipe is NOT gluten- or dairy-free, yet.
 
 ## Ingredients
 

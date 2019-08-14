@@ -1,11 +1,19 @@
 ---
 ---
 
+* {
+  box-sizing: border-box;
+  border: 0.5px dotted red !important;
+}
 $main: #A00AFF;
 $light: #BE57FF;
 $dark: #510580;
 $darkest: #5F2B80;
 $darker: #8108CC;
+
+root {
+  --page-header-footer-height: 50px;
+}
 
 html, body {
   min-height: 100vh;
@@ -35,10 +43,17 @@ a:visited {
   color: $dark;
 }
 
+img.img-responsive {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px;
+}
 
-.page-header, .page-footer {
+
+.page-footer, .page-header {
   flex: 1;
-  min-height: 50px;
+  min-height: var(--page-header-footer-height);
   background-color: $dark;
   color: white;
   padding: 0 1em;
@@ -48,39 +63,35 @@ a:visited {
   }
 }
 
-.page-header {
-  margin-bottom: 0.75em;
+.navbar {
+
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: flex-start;
+
+  > .navbrand {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    white-space: nowrap;
+  }
+
+  > .navmenu {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: flex-end;
+    > * {
+      margin-left: 10px;
+    }
+  }
 }
-.page-footer {
-  margin-top: 0.75em;
-}
+
 .page-content {
   flex: 8;
   margin: 0 2em;
-}
-
-.navbar {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.site-brand {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: flex-start;
-}
-
-.navmenu {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: flex-end;
-  > * {
-    margin-left: 2em;
-  }
 }
 
 .recipe-grid {
@@ -114,8 +125,15 @@ a:visited {
 }
 
 .post-meta {
+  display: flex;
+  flex-flow: row wrapf;
+  justify-content: flex-end;
   font-size: 80%;
+  > * {
+    white-space: nowrap;
+  }
+}
+
+.title-date {
   white-space: nowrap;
-  overflow-x: hidden;
-  overflow-y: hidden
 }

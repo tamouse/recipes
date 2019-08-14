@@ -1,20 +1,21 @@
-<nav class="page-header navbar" role="navigation">
-  <div class="site-brand">
-    <div>
-      <a href="{{ site.baseurl}}/">
-	<img src="{{site.baseurl}}/img/logo-01.gif" width="30" height="auto" style="display:inline"/>
-      </a>
+<header class="page-header">
+  <nav class="navbar" role="navigation">
+    <div class="navbrand">
+      <div>
+	<a href="{{ site.baseurl}}/">
+	  <img src="{{site.baseurl}}/img/logo-01.gif" width="30" height="auto" style="display:inline"/>
+	</a>
+      </div>
+      <h1>
+	<a href="{{ site.baseurl}}/">
+	  {% if site.title %}{{site.title}}{% else %}New Site{% endif %}
+	</a>
+      </h1>
     </div>
-    <h1>
-      <a href="{{ site.baseurl}}/">
-	{% if site.title %}{{site.title}}{% else %}New Site{% endif %}
-      </a>
-    </h1>
-  </div>
-  <div class="navmenu">
-    {% for page in site.pages %}{% if page.navbar %}
-    <div><a href="{{ page.url | prepend: site.baseurl}}">{{page.title}}</a></div>
-    {% endif %}{% endfor %}
-  </div>
-</div>
-</nav>
+    <div class="navmenu">
+      {% for page in site.pages %}{% if page.navbar %}
+      <div><a href="{{ page.url | prepend: site.baseurl}}">{{page.title}}</a></div>
+      {% endif %}{% endfor %}
+    </div>
+  </nav>
+</header>

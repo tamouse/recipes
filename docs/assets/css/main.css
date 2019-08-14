@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  border: 0.5px dotted red !important; }
+  /* border: 0.5px dotted red !important */ }
 
 root {
   --page-header-footer-height: 50px; }

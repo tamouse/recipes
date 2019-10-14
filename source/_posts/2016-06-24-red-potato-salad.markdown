@@ -3,7 +3,7 @@ layout: post
 title: Red Potato Salad
 date: 2016-06-24 04:03
 categories: ["salads"]
-tags: ["potatoes", "salad", "red-potatoes", "eggs", "mayonnaise", "green-onions", "celery"]
+tags: ["potatoes", "salad", "red-potatoes", "eggs", "mayonnaise", "green-onions", "celery", gluten-free]
 external_url: http://allrecipes.com/recipe/27070/new-red-potato-salad/
 
 ---
@@ -16,7 +16,7 @@ for a large group.
 * 3 pounds unpeeled red potatoes
 * 4 eggs
 * 1 1/2 cups mayonnaise
-* 2 tablespoons milk
+* 2 tablespoons milk (substitute coconut or almond milk for DF)
 * 2 tablespoons distilled white vinegar
 * 1/2 cup sliced green onions
 * 1/2 teaspoon salt

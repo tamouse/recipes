@@ -9,7 +9,8 @@ tags:
   - potatoes
   - tomatoes
   - peppers
-
+  - dairy-free
+  - gluten-free
 ---
 
 I make this *without* the jalapeno peppers.

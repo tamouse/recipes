@@ -6,9 +6,9 @@ layout: default
   <article>
     <h2>
       {{page.title}}
-      <small>{{page.date | date: "%d-%b-%Y"}}</small>
+      <small class="title-date">{{page.date | date: "%d-%b-%Y"}}</small>
     </h2>
-    <div class="page-meta navmenu">
+    <div class="page-meta">
       {% if page.categories %}
       <strong>Categories:</strong>
       {% for cat in page.categories %}

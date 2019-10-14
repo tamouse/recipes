@@ -11,6 +11,8 @@ This sauce is paired with [Fall-off-the-bone Oven-baked Pork Spareribs]({% post_
 
 ## Ingredients
 
+**Ensure these are all gluten-free and dairy-free.**
+
 * 1 (12 ounce) bottle of chili sauce
 * 1 tablespoon of tomato paste
 * 1/3 cup of ketchup

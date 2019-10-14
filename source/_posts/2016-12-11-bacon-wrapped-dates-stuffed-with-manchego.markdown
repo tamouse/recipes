@@ -4,12 +4,12 @@ title: Bacon-Wrapped Dates stuffed with Manchego
 date: 2016-12-11 16:19
 categories: ["appetizers"]
 tags: ["bacon", "dates", "manchego", "cheese"]
-
-
 ---
 
 A friend introduced me to these, and they are spectacular as you might
 imagine.
+
+Not dairy-free with cheese.
 
 ## Ingredients
 

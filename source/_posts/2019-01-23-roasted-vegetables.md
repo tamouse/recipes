@@ -10,6 +10,8 @@ tags:
   - butternut-squash
   - bell-peppers
   - red-onion
+  - dairy-free
+  - gluten-free
 ---
 "A casserole dish of seasonal vegetables that is so easy to prepare. It can be made a day ahead - just reheat before serving. Lemon juice can be substituted for balsamic vinegar, and you can use baking potatoes if you don't have any Yukon Golds on hand."
 

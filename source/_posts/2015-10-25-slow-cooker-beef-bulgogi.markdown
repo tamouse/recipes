@@ -3,7 +3,7 @@ layout: post
 title: Slow-Cooker Beef Bulgogi
 date: 2015-10-25 23:13
 categories: ["main-dishes"]
-tags: ["korean", "bulgogi", "beef", "slow-cooker"]
+tags: ["korean", "bulgogi", "beef", "slow-cooker", gluten-free, dairy-free]
 external_url: http://www.koreanbapsang.com/2015/02/slow-cooker-beef-bulgogi-2.html
 ---
 Bulgogi is a traditional Korean dish, usually with beef. This is a version done in a crockpot, aka slow-cooker.
@@ -19,7 +19,7 @@ Bulgogi is a traditional Korean dish, usually with beef. This is a version done 
 
 ### Sauce
 
-* 6 tablespoons soy sauce
+* 6 tablespoons tamari (GF soy sauce)
 * 3 tablespoons rice wine (or mirin)
 * 3 tablespoons sugar
 * 1 tablespoon honey

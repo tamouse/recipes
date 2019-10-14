@@ -3,7 +3,7 @@ layout: post
 title: Sweet and White Potato Salad
 date: 2016-06-24 03:50
 categories: ["salads"]
-tags: ["sweet-potatoes", "white-potatoes", "potatoes", "eggs", "celery", "mayonnaise", "onions"]
+tags: ["sweet-potatoes", "white-potatoes", "potatoes", "eggs", "celery", "mayonnaise", "onions", gluten-free, dairy-free]
 external_url: http://allrecipes.com/recipe/16625/sweet-potato-potato-salad/
 
 ---

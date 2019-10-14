@@ -16,7 +16,7 @@ tags: ["chili", "wasabi"]
 * 1 pound ground beef
 * 3/4 pound spicy Italian sausage, casing removed
 * 1 (14.5 ounce) can peeled and diced tomatoes with juice
-* 1 (12 fluid ounce) can or bottle dark beer
+* 1 (12 fluid ounce) can or bottle dark beer (omit for gluten-free)
 * 1 cup strong brewed coffee
 * 2 (6 ounce) cans tomato paste
 * 1 (14 ounce) can beef broth

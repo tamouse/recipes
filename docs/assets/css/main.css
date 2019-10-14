@@ -1,3 +1,10 @@
+* {
+  box-sizing: border-box;
+  /* border: 0.5px dotted red !important */ }
+
+root {
+  --page-header-footer-height: 50px; }
+
 html, body {
   min-height: 100vh;
   margin: 0;
@@ -23,52 +30,53 @@ a:hover {
 a:visited {
   color: #510580; }
 
-.page-header, .page-footer {
+img.img-responsive {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px; }
+
+.page-footer, .page-header {
   flex: 1;
-  min-height: 50px;
+  min-height: var(--page-header-footer-height);
   background-color: #510580;
   color: white;
   padding: 0 1em; }
-  .page-header a, .page-header a:hover, .page-header a:visited, .page-header a:active, .page-footer a, .page-footer a:hover, .page-footer a:visited, .page-footer a:active {
+  .page-footer a, .page-footer a:hover, .page-footer a:visited, .page-footer a:active, .page-header a, .page-header a:hover, .page-header a:visited, .page-header a:active {
     color: white;
     text-decoration: none; }
 
-.page-header {
-  margin-bottom: 0.75em; }
-
-.page-footer {
-  margin-top: 0.75em; }
-
-.page-content {
-  flex: 8;
-  margin: 0 2em; }
-
 .navbar {
   display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between; }
-
-.site-brand {
-  display: flex;
-  flex-direction: row;
+  flex-flow: row wrap;
   align-items: center;
   justify-content: flex-start; }
+  .navbar > .navbrand {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    white-space: nowrap; }
+  .navbar > .navmenu {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: flex-end; }
+    .navbar > .navmenu > * {
+      margin-left: 10px; }
 
-.navmenu {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: flex-end; }
-  .navmenu > * {
-    margin-left: 2em; }
+.page-content {
+  flex: 8; }
 
 .recipe-grid {
   display: grid;
-  grid-gap: 2rem;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+  grid-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  background-color: #dfc4b5;
+  color: #444; }
 
 .recipe-card {
+  background: #FFF;
   display: flex;
   flex-direction: column;
   align-items: left;
@@ -77,11 +85,6 @@ a:visited {
   border: 1px solid black;
   border-radius: 5px; }
 
-.post-index-title {
-  white-space: nowrap;
-  height: 36px;
-  overflow: hidden; }
-
 .post-excerpt {
   margin: 0 0 10px;
   padding: 0;
@@ -89,7 +92,12 @@ a:visited {
   overflow-y: hidden; }
 
 .post-meta {
-  font-size: 80%;
-  white-space: nowrap;
-  overflow-x: hidden;
-  overflow-y: hidden; }
+  display: flex;
+  flex-flow: row wrapf;
+  justify-content: flex-end;
+  font-size: 80%; }
+  .post-meta > * {
+    white-space: nowrap; }
+
+.title-date {
+  white-space: nowrap; }

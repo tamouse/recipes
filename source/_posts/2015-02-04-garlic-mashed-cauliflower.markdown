@@ -6,10 +6,8 @@ categories: ["side-dishes"]
 tags: ["cauliflower"]
 external_url: http://www.foodnetwork.com/recipes/mock-garlic-mashed-potatoes-recipe.print.html
 ---
-The original article was entitled '"Mock" Garlic Mashed Potatoes'. I'm
-wondering why the word mock was in quotes? Does that mean it's not
-really mock? Or mock mock? Anyway, this looks super delicious and I'm
-not afraid of calling it what it is.
+
+The original article was entitled '"Mock" Garlic Mashed Potatoes'. I'm wondering why the word mock was in quotes? Does that mean it's not really mock? Or mock mock? Anyway, this looks super delicious and I'm not afraid of calling it what it is. It *might* be possible to make this gluten-free and dairy-free, but it will take some experimenting.
 
 ## Ingredients
 
@@ -26,14 +24,9 @@ not afraid of calling it what it is.
 
 1. Set a stockpot of water to boil over high heat.
 
-2. Clean and cut cauliflower into small pieces. Cook in boiling water
-   for about 6 minutes, or until well done. Drain well; do not let
-   cool and pat cooked cauliflower very dry between several layers of
-   paper towels. 
+2. Clean and cut cauliflower into small pieces. Cook in boiling water for about 6 minutes, or until well done. Drain well; do not let cool and pat cooked cauliflower very dry between several layers of paper towels.
 
-3. In a bowl with an immersion blender, or in a food processor, puree
-   the hot cauliflower with the cream cheese, Parmesan, garlic,
-   chicken base, and pepper until almost smooth. 
+3. In a bowl with an immersion blender, or in a food processor, puree the hot cauliflower with the cream cheese, Parmesan, garlic, chicken base, and pepper until almost smooth.
 
 4. Garnish with chives, and serve hot with pats of butter.
 
@@ -41,5 +34,4 @@ not afraid of calling it what it is.
 
 Try roasting the garlic and adding a little fresh rosemary for a whole new taste.
 
-I bet roasting some of the cauliflower instead of all of it boiled
-would make for some awesomeness, too.
+I bet roasting some of the cauliflower instead of all of it boiled would make for some awesomeness, too.

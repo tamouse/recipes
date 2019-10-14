@@ -12,7 +12,7 @@ This looks like a super delightful recipe, and easy, too.
 ## Ingredients
 
 * 1 rack (approx. 5 pounds) of pork spareribs or baby back ribs
-* Commercial or [homemade barbecue sauce]({% post_url 2016-02-19-sweet-and-spicy-barbeque-sauce %})
+* Commercial or [homemade barbecue sauce]({% post_url 2016-02-19-sweet-and-spicy-barbeque-sauce %}) -- look for gluten-free
 
 ### Dry Rub
 

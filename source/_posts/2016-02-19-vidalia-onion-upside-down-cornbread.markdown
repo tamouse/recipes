@@ -9,19 +9,21 @@ external_url: http://sweetsavant.com/2015/07/29/vidalia-onion-upside-down-brocco
 ---
 When this floated across my consciousness, I went "OMG I HAVE TO MAKE THIS".
 
+Not dairy- or gluten-free as is.
+
 ## Ingredients
 
 * 2 Vidalia Onions
-* 4 tablespoons of butter
-* 1 1/2 cups of fine ground yellow or white cornmeal, I used yellow
-* 1 cup all purpose flour
+* 4 tablespoons of butter (not DF)
+* 1 1/2 cups of fine ground yellow or white cornmeal, I used yellow (GF?)
+* 1 cup all purpose flour (not GF)
 * 1 and 1/2 teaspoons kosher salt
 * 1/3 cup white sugar
 * 1 tablespoon baking powder
 * 8 ounces frozen broccoli-thawed
 * 1/2 cup cooked chopped bacon (optional)
 * 4 eggs
-* 16 ounces of cottage cheese
+* 16 ounces of cottage cheese (not DF)
 
 ## Instructions
 1. Preheat the oven to 400 degrees

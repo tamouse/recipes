@@ -1,4 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/recipes/" rel="alternate" type="text/html" /><updated>2019-07-12T18:32:31-05:00</updated><id>http://localhost:4000/recipes/</id><title type="html">Tamouse’s Recipe File</title><subtitle>This is a collection of my personal and favourite recipes, collected over the years in various places.</subtitle><author><name>Tamara Temple</name></author><entry><title type="html">More Stuff with Stuff In It</title><link href="http://localhost:4000/recipes/main-dishes/2019/06/29/more-stuff-with-stuff-in-it.html" rel="alternate" type="text/html" title="More Stuff with Stuff In It" /><published>2019-06-29T16:52:00-05:00</published><updated>2019-06-29T16:52:00-05:00</updated><id>http://localhost:4000/recipes/main-dishes/2019/06/29/more-stuff-with-stuff-in-it</id><content type="html" xml:base="http://localhost:4000/recipes/main-dishes/2019/06/29/more-stuff-with-stuff-in-it.html">&lt;p&gt;This is another one of those one-pan meals my seester calls “Stuff With Stuff In It” and makes a couple of meals worth of stuff. Mostly this is easy for me to make, doesn’t hurt my hands with much prep or handlind cold items, and is fast enough it doesn’t take all my spoons to make it.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://tamouse.github.io//recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tamouse.github.io//recipes/" rel="alternate" type="text/html" /><updated>2019-10-13T21:31:56-05:00</updated><id>http://tamouse.github.io//recipes/</id><title type="html">Tamouse’s Recipe File</title><subtitle>This is a collection of my personal and favourite recipes, collected over the years in various places.</subtitle><author><name>Tamara Temple</name></author><entry><title type="html">Korean Bulgogi</title><link href="http://tamouse.github.io//recipes/main-dishes/2019/10/13/korean-bulgogi.html" rel="alternate" type="text/html" title="Korean Bulgogi" /><published>2019-10-13T20:58:00-05:00</published><updated>2019-10-13T20:58:00-05:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2019/10/13/korean-bulgogi</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2019/10/13/korean-bulgogi.html">&lt;p&gt;This is on the “to try” list - I absolutely love bulgogi and Korean BBQ. I think I can do this at home to ensure no contamination.&lt;/p&gt;
+
+&lt;h1 id=&quot;bulgogi-korean-bbq-beef&quot;&gt;Bulgogi (Korean BBQ Beef)&lt;/h1&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;h3 id=&quot;marinade&quot;&gt;Marinade&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;6 Tbsp tamari (gluten-free soy sauce)&lt;/li&gt;
+  &lt;li&gt;3 Tbsp brown sugar&lt;/li&gt;
+  &lt;li&gt;2 Tbsp rice wine (mirin)&lt;/li&gt;
+  &lt;li&gt;1 red apple, tart and sweet, like a Cripps Pink or Gala, seeded/cored, chopped&lt;/li&gt;
+  &lt;li&gt;1/2 small onion, chopped&lt;/li&gt;
+  &lt;li&gt;1 Tbsp minced garlic&lt;/li&gt;
+  &lt;li&gt;1 tsp minced ginger&lt;/li&gt;
+  &lt;li&gt;1/8 tsp ground black pepper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;main-dish-part&quot;&gt;Main dish part&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1.5 lb rib eye or top sirloin&lt;/li&gt;
+  &lt;li&gt;1 small onion, thinly sliced (like from a mandoline)&lt;/li&gt;
+  &lt;li&gt;2 stalks green onion, thinly sliced&lt;/li&gt;
+  &lt;li&gt;1/2 carrot, peeled, thinly sliced diagonally&lt;/li&gt;
+  &lt;li&gt;1 Tbsp sesame oil&lt;/li&gt;
+  &lt;li&gt;1 Tbsp toasted sesame seeds&lt;/li&gt;
+  &lt;li&gt;1 Tbsp cooking oil&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+
+&lt;h3 id=&quot;meat-prep&quot;&gt;Meat Prep&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Wrap the meat in clear wrap and put on a baking sheet, freeze for 2 hours or so, so the meat is not frozen through, but can be sliced. This will enable the thinnest slices, necessary for bulgogi.&lt;/li&gt;
+  &lt;li&gt;Slice the semi-frozen beef to narrow slices, 1/8 inch thick. Place the slices into a deep mixing bowl; prefer to use glass over plastic or metal.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;marinade-1&quot;&gt;Marinade&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Blend the marinade ingredients until smooth.&lt;/li&gt;
+  &lt;li&gt;Pour the marinade over beef in the bowl. Mix them well together while gently massaging the meat with your hands.&lt;/li&gt;
+  &lt;li&gt;Add the sesame oil and mix it into the meat.&lt;/li&gt;
+  &lt;li&gt;Cover the bowl with clear wrap and marinate the meat for at least 4 hours, better if overnight, refridgerated.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;main&quot;&gt;Main&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Preheat a skillet to medium high heat until well heated. Add the cooking oil and spread it well.&lt;/li&gt;
+  &lt;li&gt;Add the meat and vegetables and cook it on medium high to high heat for 3 to 5 mins until the meat and vegetables cook to desired doneness.&lt;/li&gt;
+  &lt;li&gt;Toss in the sesame seeds and stir them quickly.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Serve the bulgogi with steamed rice and other Korean side dishes, like kim-chi, korean pickles, lettuce wraps, &lt;a href=&quot;https://www.amazon.com/Chung-Jung-One-Sunchang-Seasoned/dp/B07BFQPCM6/ref=sr_1_8?keywords=ssam+sauce&amp;amp;qid=1571019198&amp;amp;sr=8-8&quot;&gt;“ssamjang” (a korean dipping sauce)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Not necessarily knowing what to do with an extra half an onion, I might just put a whole one in the marinade, or only use the other half in the main part instead of a whole.&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="korean" /><category term="bulgogi" /><category term="beef" /><category term="main-dishes" /><summary type="html">This is on the “to try” list - I absolutely love bulgogi and Korean BBQ. I think I can do this at home to ensure no contamination.</summary></entry><entry><title type="html">More Stuff with Stuff In It</title><link href="http://tamouse.github.io//recipes/main-dishes/2019/06/29/more-stuff-with-stuff-in-it.html" rel="alternate" type="text/html" title="More Stuff with Stuff In It" /><published>2019-06-29T16:52:00-05:00</published><updated>2019-06-29T16:52:00-05:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2019/06/29/more-stuff-with-stuff-in-it</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2019/06/29/more-stuff-with-stuff-in-it.html">&lt;p&gt;This is another one of those one-pan meals my seester calls “Stuff With Stuff In It” and makes a couple of meals worth of stuff. Mostly this is easy for me to make, doesn’t hurt my hands with much prep or handlind cold items, and is fast enough it doesn’t take all my spoons to make it.&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -24,7 +81,7 @@
   &lt;li&gt;toss in the minced garlic, sliced onion, and mushrooms. cook until the onion goes soft.&lt;/li&gt;
   &lt;li&gt;toss in the handfuls of cole slaw mix and broccoli slaw mix. Add the dash of rice vinegar, and stir fry for a bit. Cover and let steam for a bit.&lt;/li&gt;
   &lt;li&gt;dump in the chicken, rice, “alfredo” sauce, salt, pepper, spices, and herbs, stir and heat through.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="stuff" /><category term="gluten-free" /><category term="rice" /><category term="chicken" /><category term="fast" /><summary type="html">This is another one of those one-pan meals my seester calls “Stuff With Stuff In It” and makes a couple of meals worth of stuff. Mostly this is easy for me to make, doesn’t hurt my hands with much prep or handlind cold items, and is fast enough it doesn’t take all my spoons to make it.</summary></entry><entry><title type="html">Vegan Alfredo Sauce</title><link href="http://localhost:4000/recipes/sauces/2019/06/22/vegan-alfredo-sauce.html" rel="alternate" type="text/html" title="Vegan Alfredo Sauce" /><published>2019-06-22T14:58:00-05:00</published><updated>2019-06-22T14:58:00-05:00</updated><id>http://localhost:4000/recipes/sauces/2019/06/22/vegan-alfredo-sauce</id><content type="html" xml:base="http://localhost:4000/recipes/sauces/2019/06/22/vegan-alfredo-sauce.html">&lt;p&gt;This looked like a good recipe to try with my still-new allergies to dairy and sensitivity to gluten. I modified it a bit to suit myself, but it’s a pretty straight-forward recipe.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="stuff" /><category term="gluten-free" /><category term="rice" /><category term="chicken" /><category term="fast" /><summary type="html">This is another one of those one-pan meals my seester calls “Stuff With Stuff In It” and makes a couple of meals worth of stuff. Mostly this is easy for me to make, doesn’t hurt my hands with much prep or handlind cold items, and is fast enough it doesn’t take all my spoons to make it.</summary></entry><entry><title type="html">Vegan Alfredo Sauce</title><link href="http://tamouse.github.io//recipes/sauces/2019/06/22/vegan-alfredo-sauce.html" rel="alternate" type="text/html" title="Vegan Alfredo Sauce" /><published>2019-06-22T14:58:00-05:00</published><updated>2019-06-22T14:58:00-05:00</updated><id>http://tamouse.github.io//recipes/sauces/2019/06/22/vegan-alfredo-sauce</id><content type="html" xml:base="http://tamouse.github.io//recipes/sauces/2019/06/22/vegan-alfredo-sauce.html">&lt;p&gt;This looked like a good recipe to try with my still-new allergies to dairy and sensitivity to gluten. I modified it a bit to suit myself, but it’s a pretty straight-forward recipe.&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -57,7 +114,7 @@
   &lt;li&gt;
     &lt;p&gt;If it still tastes a little lumpy, wait for the sauce to cool sufficiently, so you don’t get burned or something worse. Blend it in a regular high-speed blender for a few minutes. I did it in half batches, because otherwise it filled up too much of the blender.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="vegan" /><category term="gluten-free" /><category term="cauliflower" /><category term="cashews" /><category term="coconut-milk" /><summary type="html">This looked like a good recipe to try with my still-new allergies to dairy and sensitivity to gluten. I modified it a bit to suit myself, but it’s a pretty straight-forward recipe.</summary></entry><entry><title type="html">Non-dairy French Onion Dip</title><link href="http://localhost:4000/recipes/appetizers/2019/05/25/non-dairy-french-onion-dip.html" rel="alternate" type="text/html" title="Non-dairy French Onion Dip" /><published>2019-05-25T22:05:00-05:00</published><updated>2019-05-25T22:05:00-05:00</updated><id>http://localhost:4000/recipes/appetizers/2019/05/25/non-dairy-french-onion-dip</id><content type="html" xml:base="http://localhost:4000/recipes/appetizers/2019/05/25/non-dairy-french-onion-dip.html">&lt;p&gt;Looking for something I can bring to parties that also won’t kill me. I found this recipe at &lt;a href=&quot;https://www.brandnewvegan.com/recipes/vegan-french-onion-dip&quot;&gt;brand new vegan&lt;/a&gt; who seems to have similar ideas. As you’ll see, though, this turned non-vegan in a twist at the end.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="vegan" /><category term="gluten-free" /><category term="cauliflower" /><category term="cashews" /><category term="coconut-milk" /><summary type="html">This looked like a good recipe to try with my still-new allergies to dairy and sensitivity to gluten. I modified it a bit to suit myself, but it’s a pretty straight-forward recipe.</summary></entry><entry><title type="html">Non-dairy French Onion Dip</title><link href="http://tamouse.github.io//recipes/appetizers/2019/05/25/non-dairy-french-onion-dip.html" rel="alternate" type="text/html" title="Non-dairy French Onion Dip" /><published>2019-05-25T22:05:00-05:00</published><updated>2019-05-25T22:05:00-05:00</updated><id>http://tamouse.github.io//recipes/appetizers/2019/05/25/non-dairy-french-onion-dip</id><content type="html" xml:base="http://tamouse.github.io//recipes/appetizers/2019/05/25/non-dairy-french-onion-dip.html">&lt;p&gt;Looking for something I can bring to parties that also won’t kill me. I found this recipe at &lt;a href=&quot;https://www.brandnewvegan.com/recipes/vegan-french-onion-dip&quot;&gt;brand new vegan&lt;/a&gt; who seems to have similar ideas. As you’ll see, though, this turned non-vegan in a twist at the end.&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -106,7 +163,7 @@
 
 &lt;p&gt;Not sure this is smooth or creamy enough for regular potato chips. It’s okay with small tortilla rounds (yay, Old Dutch).&lt;/p&gt;
 
-&lt;p&gt;I think the acids were an attempt to get the tang of sour cream, and the maple syrup to get the sweet and also cover up the bitterness of the tofu. Never try to pass this off as anything but tofu, though.&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="dairy-free" /><category term="gluten-free" /><category term="vidalias" /><category term="onions" /><category term="tofu" /><summary type="html">Looking for something I can bring to parties that also won’t kill me. I found this recipe at brand new vegan who seems to have similar ideas. As you’ll see, though, this turned non-vegan in a twist at the end.</summary></entry><entry><title type="html">Baked Sweet and White Potato Salad</title><link href="http://localhost:4000/recipes/salads/2019/05/25/baked-white-and-sweet-potato-salad.html" rel="alternate" type="text/html" title="Baked Sweet and White Potato Salad" /><published>2019-05-25T21:34:00-05:00</published><updated>2019-05-25T21:34:00-05:00</updated><id>http://localhost:4000/recipes/salads/2019/05/25/baked-white-and-sweet-potato-salad</id><content type="html" xml:base="http://localhost:4000/recipes/salads/2019/05/25/baked-white-and-sweet-potato-salad.html">&lt;p&gt;Made this today for Memrorial Weekend celebration BBQ at my brother’s. I needed something to bring that I know I’d be able to eat and enjoy. Learning to find things I can eat while being out with normal folks is hard. This one, though, is AMAZING. This is pretty similar to &lt;a href=&quot;/recipes/salads/2016/06/24/sweet-and-white-potato-salad.html&quot;&gt;Sweet and White Potato Salad&lt;/a&gt; except the taters are baked intead of boiled. Plus BACON.&lt;/p&gt;
+&lt;p&gt;I think the acids were an attempt to get the tang of sour cream, and the maple syrup to get the sweet and also cover up the bitterness of the tofu. Never try to pass this off as anything but tofu, though.&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="dairy-free" /><category term="gluten-free" /><category term="vidalias" /><category term="onions" /><category term="tofu" /><summary type="html">Looking for something I can bring to parties that also won’t kill me. I found this recipe at brand new vegan who seems to have similar ideas. As you’ll see, though, this turned non-vegan in a twist at the end.</summary></entry><entry><title type="html">Baked Sweet and White Potato Salad</title><link href="http://tamouse.github.io//recipes/salads/2019/05/25/baked-white-and-sweet-potato-salad.html" rel="alternate" type="text/html" title="Baked Sweet and White Potato Salad" /><published>2019-05-25T21:34:00-05:00</published><updated>2019-05-25T21:34:00-05:00</updated><id>http://tamouse.github.io//recipes/salads/2019/05/25/baked-white-and-sweet-potato-salad</id><content type="html" xml:base="http://tamouse.github.io//recipes/salads/2019/05/25/baked-white-and-sweet-potato-salad.html">&lt;p&gt;Made this today for Memrorial Weekend celebration BBQ at my brother’s. I needed something to bring that I know I’d be able to eat and enjoy. Learning to find things I can eat while being out with normal folks is hard. This one, though, is AMAZING. This is pretty similar to &lt;a href=&quot;/recipes/salads/2016/06/24/sweet-and-white-potato-salad.html&quot;&gt;Sweet and White Potato Salad&lt;/a&gt; except the taters are baked intead of boiled. Plus BACON.&lt;/p&gt;
 
 &lt;p&gt;Make it vegetarian / vegan by taking out the eggs, bacon, and using a vegan mayo instead.&lt;/p&gt;
 
@@ -162,7 +219,7 @@
   &lt;li&gt;Taste it and die of pleasure.&lt;/li&gt;
   &lt;li&gt;Fridge it. This is going in overnight because I was smart enough not to try to rush this before going down tomorrow.&lt;/li&gt;
   &lt;li&gt;Try not to go back and keep tasting it. Yeah, right.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="salad" /><category term="potatoes" /><category term="white-potatoes" /><category term="sweet-potatoes" /><category term="eggs" /><category term="bacon" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">Made this today for Memrorial Weekend celebration BBQ at my brother’s. I needed something to bring that I know I’d be able to eat and enjoy. Learning to find things I can eat while being out with normal folks is hard. This one, though, is AMAZING. This is pretty similar to Sweet and White Potato Salad except the taters are baked intead of boiled. Plus BACON.</summary></entry><entry><title type="html">Turmeric, Paprika, and Cumin Roasted Cauliflower</title><link href="http://localhost:4000/recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower.html" rel="alternate" type="text/html" title="Turmeric, Paprika, and Cumin Roasted Cauliflower" /><published>2019-04-13T17:14:00-05:00</published><updated>2019-04-13T17:14:00-05:00</updated><id>http://localhost:4000/recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower</id><content type="html" xml:base="http://localhost:4000/recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower.html">&lt;p&gt;This easy roasted cauliflower is a fantastic side to pasta, meat, or seafood. It also makes a great healthy snack.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="salad" /><category term="potatoes" /><category term="white-potatoes" /><category term="sweet-potatoes" /><category term="eggs" /><category term="bacon" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">Made this today for Memrorial Weekend celebration BBQ at my brother’s. I needed something to bring that I know I’d be able to eat and enjoy. Learning to find things I can eat while being out with normal folks is hard. This one, though, is AMAZING. This is pretty similar to Sweet and White Potato Salad except the taters are baked intead of boiled. Plus BACON.</summary></entry><entry><title type="html">Turmeric, Paprika, and Cumin Roasted Cauliflower</title><link href="http://tamouse.github.io//recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower.html" rel="alternate" type="text/html" title="Turmeric, Paprika, and Cumin Roasted Cauliflower" /><published>2019-04-13T17:14:00-05:00</published><updated>2019-04-13T17:14:00-05:00</updated><id>http://tamouse.github.io//recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower</id><content type="html" xml:base="http://tamouse.github.io//recipes/side-dishes/2019/04/13/turmeric-cumin-roasted-cauliflower.html">&lt;p&gt;This easy roasted cauliflower is a fantastic side to pasta, meat, or seafood. It also makes a great healthy snack.&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -199,7 +256,7 @@
   &lt;li&gt;
     &lt;p&gt;Roast for 25-35 minutes or until the cauliflower is tender and browned, stirring once.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="cauliflower" /><category term="turmeric" /><category term="cumin" /><category term="paprika" /><category term="garlic" /><category term="gluten-free" /><category term="dairy-free" /><category term="roasted" /><category term="side-dish" /><summary type="html">This easy roasted cauliflower is a fantastic side to pasta, meat, or seafood. It also makes a great healthy snack.</summary></entry><entry><title type="html">Bean Dip a la Tamara</title><link href="http://localhost:4000/recipes/sauces/2019/03/10/bean-dip-a-la-tamara.html" rel="alternate" type="text/html" title="Bean Dip a la Tamara" /><published>2019-03-10T11:36:00-05:00</published><updated>2019-03-10T11:36:00-05:00</updated><id>http://localhost:4000/recipes/sauces/2019/03/10/bean-dip-a-la-tamara</id><content type="html" xml:base="http://localhost:4000/recipes/sauces/2019/03/10/bean-dip-a-la-tamara.html">&lt;p&gt;I wanted something that was gluten-free and dairy-free to snack on one evening, and didn’t really want popcorn, my typical go-to these days, and thought “Hey, I have some tortilla chips, I have a couple cans of beans, why not make some bean dip?”. So I did.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="cauliflower" /><category term="turmeric" /><category term="cumin" /><category term="paprika" /><category term="garlic" /><category term="gluten-free" /><category term="dairy-free" /><category term="roasted" /><category term="side-dish" /><summary type="html">This easy roasted cauliflower is a fantastic side to pasta, meat, or seafood. It also makes a great healthy snack.</summary></entry><entry><title type="html">Bean Dip a la Tamara</title><link href="http://tamouse.github.io//recipes/sauces/2019/03/10/bean-dip-a-la-tamara.html" rel="alternate" type="text/html" title="Bean Dip a la Tamara" /><published>2019-03-10T11:36:00-05:00</published><updated>2019-03-10T11:36:00-05:00</updated><id>http://tamouse.github.io//recipes/sauces/2019/03/10/bean-dip-a-la-tamara</id><content type="html" xml:base="http://tamouse.github.io//recipes/sauces/2019/03/10/bean-dip-a-la-tamara.html">&lt;p&gt;I wanted something that was gluten-free and dairy-free to snack on one evening, and didn’t really want popcorn, my typical go-to these days, and thought “Hey, I have some tortilla chips, I have a couple cans of beans, why not make some bean dip?”. So I did.&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -250,7 +307,7 @@
   &lt;li&gt;
     &lt;p&gt;soak the food processor parts overnight and thoroughly clean that puppy.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="beans" /><category term="bean-dip" /><category term="dips" /><category term="appetizers" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">I wanted something that was gluten-free and dairy-free to snack on one evening, and didn’t really want popcorn, my typical go-to these days, and thought “Hey, I have some tortilla chips, I have a couple cans of beans, why not make some bean dip?”. So I did.</summary></entry><entry><title type="html">What did I just cook?</title><link href="http://localhost:4000/recipes/main-dishes/2019/03/01/what-did-i-just-cook.html" rel="alternate" type="text/html" title="What did I just cook?" /><published>2019-03-01T16:22:00-06:00</published><updated>2019-03-01T16:22:00-06:00</updated><id>http://localhost:4000/recipes/main-dishes/2019/03/01/what-did-i-just-cook</id><content type="html" xml:base="http://localhost:4000/recipes/main-dishes/2019/03/01/what-did-i-just-cook.html">&lt;p&gt;I just made some lunch for myself and it was stream-of-concsiousness cooking.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="beans" /><category term="bean-dip" /><category term="dips" /><category term="appetizers" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">I wanted something that was gluten-free and dairy-free to snack on one evening, and didn’t really want popcorn, my typical go-to these days, and thought “Hey, I have some tortilla chips, I have a couple cans of beans, why not make some bean dip?”. So I did.</summary></entry><entry><title type="html">What did I just cook?</title><link href="http://tamouse.github.io//recipes/main-dishes/2019/03/01/what-did-i-just-cook.html" rel="alternate" type="text/html" title="What did I just cook?" /><published>2019-03-01T16:22:00-06:00</published><updated>2019-03-01T16:22:00-06:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2019/03/01/what-did-i-just-cook</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2019/03/01/what-did-i-just-cook.html">&lt;p&gt;I just made some lunch for myself and it was stream-of-concsiousness cooking.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -329,7 +386,7 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;So, what would you call this? Maybe some kind of fried rice veggie and chicken stir fry??&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="gluten-free" /><category term="chicken" /><category term="rice" /><category term="veggies" /><category term="stuff" /><summary type="html">I just made some lunch for myself and it was stream-of-concsiousness cooking.</summary></entry><entry><title type="html">Mung Bean Crepes</title><link href="http://localhost:4000/recipes/main-dishes/2019/02/17/mung-bean-crepes.html" rel="alternate" type="text/html" title="Mung Bean Crepes" /><published>2019-02-17T11:13:00-06:00</published><updated>2019-02-17T11:13:00-06:00</updated><id>http://localhost:4000/recipes/main-dishes/2019/02/17/mung-bean-crepes</id><content type="html" xml:base="http://localhost:4000/recipes/main-dishes/2019/02/17/mung-bean-crepes.html">&lt;p&gt;Mung beans turn up in various guises in Asian cooking, with fresh sprouts being the most common form. This favorite dish of southern Vietnam uses yellow mung beans—split dried green mung beans with their husks removed. Nuoc cham is a condiment offered as an accompaniment to myriad Vietnamese dishes, such as these crepes.&lt;/p&gt;
+&lt;p&gt;So, what would you call this? Maybe some kind of fried rice veggie and chicken stir fry??&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="gluten-free" /><category term="chicken" /><category term="rice" /><category term="veggies" /><category term="stuff" /><summary type="html">I just made some lunch for myself and it was stream-of-concsiousness cooking.</summary></entry><entry><title type="html">Mung Bean Crepes</title><link href="http://tamouse.github.io//recipes/main-dishes/2019/02/17/mung-bean-crepes.html" rel="alternate" type="text/html" title="Mung Bean Crepes" /><published>2019-02-17T11:13:00-06:00</published><updated>2019-02-17T11:13:00-06:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2019/02/17/mung-bean-crepes</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2019/02/17/mung-bean-crepes.html">&lt;p&gt;Mung beans turn up in various guises in Asian cooking, with fresh sprouts being the most common form. This favorite dish of southern Vietnam uses yellow mung beans—split dried green mung beans with their husks removed. Nuoc cham is a condiment offered as an accompaniment to myriad Vietnamese dishes, such as these crepes.&lt;/p&gt;
 
 &lt;h1 id=&quot;ingredients&quot;&gt;Ingredients:&lt;/h1&gt;
 
@@ -392,7 +449,7 @@
 
 &lt;h1 id=&quot;notes&quot;&gt;Notes&lt;/h1&gt;
 
-&lt;p&gt;Adapted from Williams-Sonoma Collection Series, Asian, by Farina Wong Kingsley (Simon &amp;amp; Schuster, 2003).&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="gluten-free" /><category term="mung-beans" /><category term="crepes" /><category term="shrimp" /><summary type="html">Mung beans turn up in various guises in Asian cooking, with fresh sprouts being the most common form. This favorite dish of southern Vietnam uses yellow mung beans—split dried green mung beans with their husks removed. Nuoc cham is a condiment offered as an accompaniment to myriad Vietnamese dishes, such as these crepes.</summary></entry><entry><title type="html">Curried Vegetables</title><link href="http://localhost:4000/recipes/side-dishes/2019/01/23/curried-vegetables.html" rel="alternate" type="text/html" title="Curried Vegetables" /><published>2019-01-23T20:38:00-06:00</published><updated>2019-01-23T20:38:00-06:00</updated><id>http://localhost:4000/recipes/side-dishes/2019/01/23/curried-vegetables</id><content type="html" xml:base="http://localhost:4000/recipes/side-dishes/2019/01/23/curried-vegetables.html">&lt;p&gt;I make this &lt;em&gt;without&lt;/em&gt; the jalapeno peppers.&lt;/p&gt;
+&lt;p&gt;Adapted from Williams-Sonoma Collection Series, Asian, by Farina Wong Kingsley (Simon &amp;amp; Schuster, 2003).&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="gluten-free" /><category term="mung-beans" /><category term="crepes" /><category term="shrimp" /><summary type="html">Mung beans turn up in various guises in Asian cooking, with fresh sprouts being the most common form. This favorite dish of southern Vietnam uses yellow mung beans—split dried green mung beans with their husks removed. Nuoc cham is a condiment offered as an accompaniment to myriad Vietnamese dishes, such as these crepes.</summary></entry><entry><title type="html">Curried Vegetables</title><link href="http://tamouse.github.io//recipes/side-dishes/2019/01/23/curried-vegetables.html" rel="alternate" type="text/html" title="Curried Vegetables" /><published>2019-01-23T20:38:00-06:00</published><updated>2019-01-23T20:38:00-06:00</updated><id>http://tamouse.github.io//recipes/side-dishes/2019/01/23/curried-vegetables</id><content type="html" xml:base="http://tamouse.github.io//recipes/side-dishes/2019/01/23/curried-vegetables.html">&lt;p&gt;I make this &lt;em&gt;without&lt;/em&gt; the jalapeno peppers.&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -425,35 +482,4 @@
   &lt;li&gt;
     &lt;p&gt;Sprinkle with cilantro before serving.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="curry" /><category term="veggies" /><category term="potatoes" /><category term="tomatoes" /><category term="peppers" /><summary type="html">I make this without the jalapeno peppers.</summary></entry><entry><title type="html">Roasted Vegetables</title><link href="http://localhost:4000/recipes/side-dishes/2019/01/23/roasted-vegetables.html" rel="alternate" type="text/html" title="Roasted Vegetables" /><published>2019-01-23T20:33:00-06:00</published><updated>2019-01-23T20:33:00-06:00</updated><id>http://localhost:4000/recipes/side-dishes/2019/01/23/roasted-vegetables</id><content type="html" xml:base="http://localhost:4000/recipes/side-dishes/2019/01/23/roasted-vegetables.html">&lt;p&gt;“A casserole dish of seasonal vegetables that is so easy to prepare. It can be made a day ahead - just reheat before serving. Lemon juice can be substituted for balsamic vinegar, and you can use baking potatoes if you don’t have any Yukon Golds on hand.”&lt;/p&gt;
-
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;1 small butternut squash, cubed&lt;/li&gt;
-  &lt;li&gt;2 red bell peppers, seeded and diced&lt;/li&gt;
-  &lt;li&gt;1 sweet potato, peeled and cubed&lt;/li&gt;
-  &lt;li&gt;3 Yukon Gold potatoes, cubed&lt;/li&gt;
-  &lt;li&gt;1 red onion, quartered&lt;/li&gt;
-  &lt;li&gt;1 tablespoon chopped fresh thyme&lt;/li&gt;
-  &lt;li&gt;2 tablespoons chopped fresh rosemary&lt;/li&gt;
-  &lt;li&gt;1/4 cup olive oil&lt;/li&gt;
-  &lt;li&gt;2 tablespoons balsamic vinegar&lt;/li&gt;
-  &lt;li&gt;salt and freshly ground black pepper&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Preheat oven to 475 degrees F (245 degrees C).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In a large bowl, combine the squash, red bell peppers, sweet potato, and Yukon Gold potatoes. Separate the red onion quarters into pieces, and add them to the mixture.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In a small bowl, stir together thyme, rosemary, olive oil, vinegar, salt, and pepper. Toss with vegetables until they are coated. Spread evenly on a large roasting pan.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Roast for 35 to 40 minutes in the preheated oven, stirring every 10 minutes, or until vegetables are cooked through and browned.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="veggies" /><category term="roasting" /><category term="potatoes" /><category term="butternut-squash" /><category term="bell-peppers" /><category term="red-onion" /><summary type="html">“A casserole dish of seasonal vegetables that is so easy to prepare. It can be made a day ahead - just reheat before serving. Lemon juice can be substituted for balsamic vinegar, and you can use baking potatoes if you don’t have any Yukon Golds on hand.”</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="curry" /><category term="veggies" /><category term="potatoes" /><category term="tomatoes" /><category term="peppers" /><summary type="html">I make this without the jalapeno peppers.</summary></entry></feed>

@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://tamouse.github.io//recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tamouse.github.io//recipes/" rel="alternate" type="text/html" /><updated>2019-10-22T18:03:10-05:00</updated><id>http://tamouse.github.io//recipes/</id><title type="html">Tamouse’s Recipe File</title><subtitle>This is a collection of my personal and favourite recipes, collected over the years in various places.</subtitle><author><name>Tamara Temple</name></author><entry><title type="html">Gluten-Free, Dairy-Free Coconut Brownies</title><link href="http://tamouse.github.io//recipes/desserts/2019/10/14/gf-df-brownies.html" rel="alternate" type="text/html" title="Gluten-Free, Dairy-Free Coconut Brownies" /><published>2019-10-14T00:58:00-05:00</published><updated>2019-10-14T00:58:00-05:00</updated><id>http://tamouse.github.io//recipes/desserts/2019/10/14/gf-df-brownies</id><content type="html" xml:base="http://tamouse.github.io//recipes/desserts/2019/10/14/gf-df-brownies.html">&lt;p&gt;I might have died and gone to dessert heaven.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://tamouse.github.io//recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tamouse.github.io//recipes/" rel="alternate" type="text/html" /><updated>2019-11-09T11:47:59-06:00</updated><id>http://tamouse.github.io//recipes/</id><title type="html">Tamouse’s Recipe File</title><subtitle>This is a collection of my personal and favourite recipes, collected over the years in various places.</subtitle><author><name>Tamara Temple</name></author><entry><title type="html">Making Zucchini Lasagne Noodles</title><link href="http://tamouse.github.io//recipes/kitchen-tips/2019/11/09/making-zucchini-lasagne-noodles.html" rel="alternate" type="text/html" title="Making Zucchini Lasagne Noodles" /><published>2019-11-09T11:34:00-06:00</published><updated>2019-11-09T11:34:00-06:00</updated><id>http://tamouse.github.io//recipes/kitchen-tips/2019/11/09/making-zucchini-lasagne-noodles</id><content type="html" xml:base="http://tamouse.github.io//recipes/kitchen-tips/2019/11/09/making-zucchini-lasagne-noodles.html">&lt;p&gt;Normally, zucchini would be far too wet to make a good lasagne, so this technique can be used to make the zucchini more suitable as a stand-in for the pasta noodles.&lt;/p&gt;
+
+&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3 large zucchini (about 2 pounds total)&lt;/li&gt;
+  &lt;li&gt;kosher or a coarse salt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Trim the ends off the zucchini&lt;/li&gt;
+  &lt;li&gt;Cut the zucchini in half crosswise&lt;/li&gt;
+  &lt;li&gt;Thinly slice each piece lengthwise into 1/4-inch-thick planks&lt;/li&gt;
+  &lt;li&gt;Set a colander over a sink&lt;/li&gt;
+  &lt;li&gt;Place the zucchini slices in a colander and gently toss with the salt&lt;/li&gt;
+  &lt;li&gt;Drain for 15 minutes&lt;/li&gt;
+  &lt;li&gt;Arrange a rack in the middle of the oven and heat to 450°F&lt;/li&gt;
+  &lt;li&gt;Line two baking sheets with parchment paper&lt;/li&gt;
+  &lt;li&gt;Divide the zucchini planks between the baking sheets in a single layer&lt;/li&gt;
+  &lt;li&gt;Pat them dry with a paper towel&lt;/li&gt;
+  &lt;li&gt;Roast until the zucchini is dry to the touch, 10 to 15 minutes&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Taken from the middle of a recipe on making zucchini lasagne.&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="zucchini" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">Normally, zucchini would be far too wet to make a good lasagne, so this technique can be used to make the zucchini more suitable as a stand-in for the pasta noodles.</summary></entry><entry><title type="html">Gluten-Free, Dairy-Free Coconut Brownies</title><link href="http://tamouse.github.io//recipes/desserts/2019/10/14/gf-df-brownies.html" rel="alternate" type="text/html" title="Gluten-Free, Dairy-Free Coconut Brownies" /><published>2019-10-14T00:58:00-05:00</published><updated>2019-10-14T00:58:00-05:00</updated><id>http://tamouse.github.io//recipes/desserts/2019/10/14/gf-df-brownies</id><content type="html" xml:base="http://tamouse.github.io//recipes/desserts/2019/10/14/gf-df-brownies.html">&lt;p&gt;I might have died and gone to dessert heaven.&lt;/p&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
@@ -384,30 +409,4 @@
 
 
 
-&lt;/div&gt;</content><author><name>Tamara Temple</name></author><category term="gluten-free" /><category term="dairy-free" /><category term="ground-beef" /><category term="tater-tots" /><category term="riced-cauliflower" /><summary type="html">I was in the mood for an old family favourite, tater-tot casserole. This was my family’s standard Tuesday night fare, when my Mom came home from teaching at the Weavers’ Guild and needed something quick to feed to hungry children.</summary></entry><entry><title type="html">More Stuff with Stuff In It</title><link href="http://tamouse.github.io//recipes/main-dishes/2019/06/29/more-stuff-with-stuff-in-it.html" rel="alternate" type="text/html" title="More Stuff with Stuff In It" /><published>2019-06-29T16:52:00-05:00</published><updated>2019-06-29T16:52:00-05:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2019/06/29/more-stuff-with-stuff-in-it</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2019/06/29/more-stuff-with-stuff-in-it.html">&lt;p&gt;This is another one of those one-pan meals my seester calls “Stuff With Stuff In It” and makes a couple of meals worth of stuff. Mostly this is easy for me to make, doesn’t hurt my hands with much prep or handlind cold items, and is fast enough it doesn’t take all my spoons to make it.&lt;/p&gt;
-
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;olive oil&lt;/li&gt;
-  &lt;li&gt;2 cloves garlic, minced&lt;/li&gt;
-  &lt;li&gt;1 whole vidalia onion, sliced&lt;/li&gt;
-  &lt;li&gt;a handful of mushrooms, diced&lt;/li&gt;
-  &lt;li&gt;a handful of cole slaw mix&lt;/li&gt;
-  &lt;li&gt;a handful of broccoli slaw mix&lt;/li&gt;
-  &lt;li&gt;a dash of rice vinegar&lt;/li&gt;
-  &lt;li&gt;8 oz cooked chicken&lt;/li&gt;
-  &lt;li&gt;1 pack “quick rice”, cooked. I’ve been using the 90-second microwave in bag stuff, works great for me.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://tamouse.github.io/recipes/sauces/2019/06/22/vegan-alfredo-sauce.html&quot; title=&quot;Make this stuff up ahead of time and keep it for things like this 😄 &quot;&gt;vegan “alfredo” sauce&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;salt, pepper, etc&lt;/li&gt;
-  &lt;li&gt;italian blend seasoning&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;heat up the oil in a pan&lt;/li&gt;
-  &lt;li&gt;toss in the minced garlic, sliced onion, and mushrooms. cook until the onion goes soft.&lt;/li&gt;
-  &lt;li&gt;toss in the handfuls of cole slaw mix and broccoli slaw mix. Add the dash of rice vinegar, and stir fry for a bit. Cover and let steam for a bit.&lt;/li&gt;
-  &lt;li&gt;dump in the chicken, rice, “alfredo” sauce, salt, pepper, spices, and herbs, stir and heat through.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Tamara Temple</name></author><category term="stuff" /><category term="gluten-free" /><category term="dairy-free" /><category term="rice" /><category term="chicken" /><category term="fast" /><summary type="html">This is another one of those one-pan meals my seester calls “Stuff With Stuff In It” and makes a couple of meals worth of stuff. Mostly this is easy for me to make, doesn’t hurt my hands with much prep or handlind cold items, and is fast enough it doesn’t take all my spoons to make it.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Tamara Temple</name></author><category term="gluten-free" /><category term="dairy-free" /><category term="ground-beef" /><category term="tater-tots" /><category term="riced-cauliflower" /><summary type="html">I was in the mood for an old family favourite, tater-tot casserole. This was my family’s standard Tuesday night fare, when my Mom came home from teaching at the Weavers’ Guild and needed something quick to feed to hungry children.</summary></entry></feed>

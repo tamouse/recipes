@@ -2,7 +2,7 @@
 layout: post
 title: "Creamy Beef Tips with Mushrooms"
 date: 2019-10-14 00:48
-categories: [main-dish]
+categories: [main-dishes]
 tags: [beef, mushrooms, creamy, dairy-free, gluten-free]
 ---
 

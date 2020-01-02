@@ -28,6 +28,11 @@ body {
   flex-direction: column;
   align-items: stretch;
   justify-content: stretch;
+
+  @media (min-width: 992px) {
+    width: 992px;
+    margin: 0 auto;
+  }
 }
 
 a, a:hover, a:visited, a:active {

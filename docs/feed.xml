@@ -1,70 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://tamouse.github.io//recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tamouse.github.io//recipes/" rel="alternate" type="text/html" /><updated>2020-01-02T02:39:42-06:00</updated><id>http://tamouse.github.io//recipes/</id><title type="html">Tamouse’s Recipe File</title><subtitle>This is a collection of my personal and favourite recipes, collected over the years in various places.</subtitle><author><name>Tamara Temple</name></author><entry><title type="html">Instant Pot Shredded Chicken Burrito Bowls</title><link href="http://tamouse.github.io//recipes/main-dishes/2020/01/02/instant-pot-shredded-chicken-burrito-bowls.html" rel="alternate" type="text/html" title="Instant Pot Shredded Chicken Burrito Bowls" /><published>2020-01-02T01:57:00-06:00</published><updated>2020-01-02T01:57:00-06:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2020/01/02/instant-pot-shredded-chicken-burrito-bowls</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2020/01/02/instant-pot-shredded-chicken-burrito-bowls.html">&lt;p&gt;From the webiste: “Instant Pot Shredded Chicken Burrito Bowl is the most delicious Burrito you will ever eat. One pot cooking in your instant pot and it takes less than 20 minutes to prepare.”&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://tamouse.github.io//recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tamouse.github.io//recipes/" rel="alternate" type="text/html" /><updated>2020-01-03T20:38:08-06:00</updated><id>http://tamouse.github.io//recipes/</id><title type="html">Tamouse’s Recipe File</title><subtitle>This is a collection of my personal and favourite recipes, collected over the years in various places.</subtitle><author><name>Tamara Temple</name></author><entry><title type="html">Instant Pot Chicken Burrito Bowls</title><link href="http://tamouse.github.io//recipes/main-dishes/2020/01/02/instant-pot-shredded-chicken-burrito-bowls.html" rel="alternate" type="text/html" title="Instant Pot Chicken Burrito Bowls" /><published>2020-01-02T01:57:00-06:00</published><updated>2020-01-02T01:57:00-06:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2020/01/02/instant-pot-shredded-chicken-burrito-bowls</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2020/01/02/instant-pot-shredded-chicken-burrito-bowls.html">&lt;p&gt;From the webiste: “Instant Pot &lt;del&gt;Shredded&lt;/del&gt; Chicken Burrito Bowl is the most delicious Burrito you will ever eat. One pot cooking in your instant pot and it takes less than 20 minutes to prepare.”&lt;/p&gt;
 
 &lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Prep Time: 4 min&lt;/li&gt;
-  &lt;li&gt;Cook Time: 8 min&lt;/li&gt;
-  &lt;li&gt;Serves: 4 to 8&lt;/li&gt;
+  &lt;li&gt;Cook Time: 30 min (8 minutes pressure, 20 minutes standing slow release, coupla minutes slop)&lt;/li&gt;
+  &lt;li&gt;Serves: 8&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
 
-&lt;p&gt;(Half of original, feels better for 1 person, even with saving.)&lt;/p&gt;
-
 &lt;ul&gt;
-  &lt;li&gt;1 1/2 boneless, skinless chicken breasts (using chicken thighs, boneless, skinless, figuring 1 breast = 2 thighs)&lt;/li&gt;
-  &lt;li&gt;1 1⁄8 cups of chicken broth&lt;/li&gt;
-  &lt;li&gt;1/2 pack of taco seasoning&lt;/li&gt;
-  &lt;li&gt;1/2 can of sweet corn, drained&lt;/li&gt;
-  &lt;li&gt;1/2 can of black beans, rinsed and drained&lt;/li&gt;
-  &lt;li&gt;1/2 can of Rotel (tomatoes, small dice, seasoned okay)&lt;/li&gt;
-  &lt;li&gt;1/2 medium green bell pepper, sliced (left out)&lt;/li&gt;
-  &lt;li&gt;1/2 medium red bell pepper, sliced (left out)&lt;/li&gt;
-  &lt;li&gt;1/2 medium onion, sliced&lt;/li&gt;
-  &lt;li&gt;1 cups of long grain rice&lt;/li&gt;
+  &lt;li&gt;5 (not 3) boneless, skinless chicken &lt;del&gt;breasts&lt;/del&gt; thighs (using chicken thighs, boneless, skinless, figuring 1 breast is about 2 thighs, more or less) &lt;em&gt;cut up, because I’m not shredding it&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;2 1/4 cups of chicken broth&lt;/li&gt;
+  &lt;li&gt;1 pack of taco seasoning&lt;/li&gt;
+  &lt;li&gt;1 can of sweet corn, drained&lt;/li&gt;
+  &lt;li&gt;1 can of black beans, rinsed and drained&lt;/li&gt;
+  &lt;li&gt;1 can of Rotel (tomatoes, small dice, seasoned okay)&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;1 medium green bell pepper, sliced (left out)&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;1 medium red bell pepper, sliced (left out)&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;1 medium onion, sliced&lt;/li&gt;
+  &lt;li&gt;1 small can roasted mild green chilis&lt;/li&gt;
+  &lt;li&gt;2 cups of long grain rice (I only had 1 cup of long grain, and used a “Royal Mix” of Texmati, Jasmine, Red, and Wild rices - it worked well)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;preparation-steps&quot;&gt;Preparation Steps&lt;/h2&gt;
 
 &lt;ol&gt;
   &lt;li&gt;In the Instant Pot, pour just enough chicken broth to cover the bottom of the pot.&lt;/li&gt;
-  &lt;li&gt;Then place the chicken breasts along the bottom of the pot.&lt;/li&gt;
+  &lt;li&gt;Then place the chicken along the bottom of the pot.&lt;/li&gt;
   &lt;li&gt;Sprinkle the taco seasoning evenly over the chicken.&lt;/li&gt;
   &lt;li&gt;Pour the corn, black beans, and tomatoes into the pot. Try to pour them in different sections of the pot, so everything doesn’t pile up in one place.&lt;/li&gt;
-  &lt;li&gt;Add both the green and red bell peppers (omitted), and the onion. Again, spreading them evenly along the top, so they don’t pile up too much.&lt;/li&gt;
-  &lt;li&gt;Add the rice evenly to the pot. Then add the remaining chicken broth. Try to push the rice down so that it’s covered by the broth.&lt;/li&gt;
+  &lt;li&gt;Add the sliced onions and the green chilis, spreading them evenly along the top, so they don’t pile up too much.&lt;/li&gt;
+  &lt;li&gt;Add the rice evenly to the pot, then add the remaining chicken broth. Try to push the rice down so that it’s covered by the broth.&lt;/li&gt;
   &lt;li&gt;Using your Instant Pot’s instructions, pressure cook for 8 minutes.&lt;/li&gt;
-  &lt;li&gt;Once it’s done cooking, allow it to slowly depressurize for 10 minutes.&lt;/li&gt;
+  &lt;li&gt;Once it’s done cooking, allow it to slowly depressurize for 20 minutes.&lt;/li&gt;
   &lt;li&gt;Then release the sealing valve to vent any remaining pressure.&lt;/li&gt;
-  &lt;li&gt;Remove the lid. Using 2 forks pull the chicken meat apart so it becomes thin enough for a good taco consistency. (This feels a little dangerous in terms of heat. Might remove the chicken pieces to a bowl to do the shredding, then add back. Put the lid back on and seal it while shredding the chicken outside the bowl.)&lt;/li&gt;
-  &lt;li&gt;Stir well to incorporate all the ingredients and place the lid back on.&lt;/li&gt;
-  &lt;li&gt;Do not turn the Instant Pot on, but let it sit with the lid sealed for at least 5 minutes. This will finish cooking any rice that may have been sitting on the top and not cooked all the way through.&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Remove the lid. Using 2 forks pull the chicken meat apart so it becomes thin enough for a good taco consistency. (This feels a little dangerous in terms of heat. Might remove the chicken pieces to a bowl to do the shredding, then add back. Put the lid back on and seal it while shredding the chicken outside the bowl.)&lt;/del&gt; Cutting up the chicken worked fine.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Stir well to incorporate all the ingredients &lt;del&gt;and place the lid back on&lt;/del&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Do not turn the Instant Pot on, but let it sit with the lid sealed for at least 5 minutes. This will finish cooking any rice that may have been sitting on the top and not cooked all the way through.&lt;/del&gt; completely unnecessary with step 8 above&lt;/li&gt;
   &lt;li&gt;Enjoy in a bowl by itself, in a soft tortilla, or with tortilla chips. And don’t forget your favorite toppings!&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;nutrition&quot;&gt;Nutrition&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Serving Size: 1 (wouldn’t it be great if they said how much this was??)&lt;/li&gt;
-  &lt;li&gt;Calories: 384 calories&lt;/li&gt;
-  &lt;li&gt;Fat: 5 grams fat&lt;/li&gt;
-  &lt;li&gt;Saturated Fat: 1 grams saturated fat&lt;/li&gt;
-  &lt;li&gt;Unsaturated Fat: 2 grams unsaturated fat&lt;/li&gt;
-  &lt;li&gt;Trans Fat: 0 grams trans fat&lt;/li&gt;
-  &lt;li&gt;Cholesterol: 79 milligrams cholesterol&lt;/li&gt;
-  &lt;li&gt;Sodium: 1104 grams sodium&lt;/li&gt;
-  &lt;li&gt;Carbohydrates: 49 grams carbohydrates&lt;/li&gt;
-  &lt;li&gt;Fiber: 6 grams fiber&lt;/li&gt;
-  &lt;li&gt;Sugar: 5 grams sugar&lt;/li&gt;
-  &lt;li&gt;Protein: 37 grams protein&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h2 id=&quot;toppings&quot;&gt;Toppings&lt;/h2&gt;
+
+&lt;h3 id=&quot;had&quot;&gt;had:&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;pico de gallo&lt;/li&gt;
   &lt;li&gt;shredded cheddar non-dairy cheese&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;to-try&quot;&gt;to try:&lt;/h3&gt;
+
+&lt;ul&gt;
   &lt;li&gt;guac&lt;/li&gt;
   &lt;li&gt;salsa&lt;/li&gt;
   &lt;li&gt;corn tortilla chips&lt;/li&gt;

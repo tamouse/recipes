@@ -1,0 +1,22 @@
+<div id="{{ include.slug }}" class="recipe_entry">
+
+  {% if include.recipe.excerpt %}<p id="excerpt">{{include.recipe.excerpt}}</p>{% endif %}
+
+  {% if include.recipe.ingredients %}
+  <h3>Ingredients</h3>
+  <ul>
+    {% for ingredient in include.recipe.ingredients %}
+    <li>{% include ingredient.html ingredient=ingredient %}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if include.recipe.directions %}
+  <h3>Direcctions</h3>
+  <ol>
+    {% for step in include.recipe.directions %}
+    <li>{{ step }}</li>
+    {% endfor %}
+  </ol>
+  {% endif %}
+</div> 

@@ -1,0 +1,5 @@
+<span>
+  {% if ingredient.quantity %}<span>{{include.ingredient.quantity}}</span>{% endif %}
+  {% if ingredient.units %}<span>{{include.ingredient.units}}</span>{% endif %}
+  {% if ingredient.name %}<span>{{include.ingredient.name}}</span>{% endif %}{% if ingredient.prep %}<span>; {{include.ingredient.prep}}</span>{% endif %}
+</span>

@@ -38,3 +38,6 @@ I have no idea how long we've had this recipe, but we had it pretty often growin
 I found this in my mom's old recipe box:
 
 ![Original recipe card from Bobby Barr]({{site.baseurl}}/img/2011-07-05-calico-beans-recipe-card.jpg "This is the original recipe card my mom got from choir friend Bobby Barr"){: .img-responsive}
+
+
+[AnyList Recipe file]({{site.baseurl}}/uploads/CalicoBeans.anylistrecipes "Download to add to your AnyList app")

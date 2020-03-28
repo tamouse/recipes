@@ -40,6 +40,14 @@ img.img-responsive {
   padding: 10px;
   margin: 10px; }
 
+img.brand-logo {
+  display: inline;
+  max-width: 30px;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  line-break: inherit; }
+
 .page-footer, .page-header {
   flex: 1;
   min-height: var(--page-header-footer-height);

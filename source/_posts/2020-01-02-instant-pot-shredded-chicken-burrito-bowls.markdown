@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instant Pot Chicken Burrito Bowls
+title: Chicken Burrito Bowls
 date: 2020-01-02T01:57
 categories: ["main-dishes"]
 tags: ["instant-pot", "gluten-free", "dairy-free", "chicken", "beans", "corn", "rice", "tomatoes"]

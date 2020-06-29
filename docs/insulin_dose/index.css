@@ -3,12 +3,24 @@ html, body {
   font-size: 17px;
 }
 
+header {
+  width: fit-content;
+  margin: auto;
+  text-align: center;
+}
+
 tr {
   vertical-align: top;
 }
 
+#calculator {
+  width: fit-content;
+  margin: auto;
+}
+
 #buttons {
-  margin-top: 1rem;
+  width: fit-content;
+  margin: 1rem auto;
   text-align: center;
 }
 
@@ -17,7 +29,8 @@ tr {
 }
 
 #dosage {
-  margin-top: 1rem;
+  width: fit-content;
+  margin: 1rem auto;
   text-align: center;
 }
 

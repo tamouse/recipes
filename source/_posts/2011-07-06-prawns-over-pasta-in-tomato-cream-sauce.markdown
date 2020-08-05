@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Prawns Over Pasta In Tomato Cream Sauce"
+title: "Prawns (or Shrimp) Over Pasta In Tomato Cream Sauce"
 date: 2011-07-06 01:41:55 -0500
 categories: [main-dishes]
-tags: [seafood, prawns, pasta, tomato-cream-sauce, italian-cuisine]
+tags: [seafood, prawns, shrimp, pasta, tomato-cream-sauce, italian-cuisine]
 ---
 Shallots, garlic, wine, tomatoes, and cream make a fabulous fresh
 sauce for prawns (or shrimp) and pasta. It is paired with angel hair

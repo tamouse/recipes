@@ -1,0 +1,33 @@
+---
+layout: post
+---
+
+<div id="{{ page.slug }}" class="recipe_entry">
+
+  {% if page.excerpt %}<p id="excerpt">{{page.excerpt}}</p>{% endif %}
+
+  {% if page.ingredients %}
+  <h3>Ingredients</h3>
+  <ul>
+    {% for ingredient in page.ingredients %}
+    <li>{% include ingredient.html ingredient=ingredient %}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if page.directions %}
+  <h3>Direcctions</h3>
+  <ol>
+    {% for step in page.directions %}
+    <li>{{ step }}</li>
+    {% endfor %}
+  </ol>
+  {% endif %}
+
+  {% if page.notes %}
+  <h3>Notes</h3>
+  {% for note in page.notes %}
+  <p>{{ note }}</p>
+  {% endfor %}
+  {% endif %}
+</div> 

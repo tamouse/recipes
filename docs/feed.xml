@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://tamouse.github.io//recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tamouse.github.io//recipes/" rel="alternate" type="text/html" /><updated>2020-11-09T09:48:51-06:00</updated><id>http://tamouse.github.io//recipes/</id><title type="html">Tamouse’s Recipe File</title><subtitle>This is a collection of my personal and favourite recipes, collected over the years in various places.</subtitle><author><name>Tamara Temple</name></author><entry><title type="html">Marinara Sauce (simple)</title><link href="http://tamouse.github.io//recipes/sauces/2020/11/09/marina-sauce.html" rel="alternate" type="text/html" title="Marinara Sauce (simple)" /><published>2020-11-09T08:49:00-06:00</published><updated>2020-11-09T08:49:00-06:00</updated><id>http://tamouse.github.io//recipes/sauces/2020/11/09/marina-sauce</id><content type="html" xml:base="http://tamouse.github.io//recipes/sauces/2020/11/09/marina-sauce.html"></content><author><name>Tamara Temple</name></author><category term="tomatoes" /><category term="garlic" /><category term="basil" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">A very simple way to make marinara sauce that tastes better than jarred.</summary></entry><entry><title type="html">Sweet Potatoe Lasagna</title><link href="http://tamouse.github.io//recipes/main-dishes/2020/11/09/sweet-potato-lasagna.html" rel="alternate" type="text/html" title="Sweet Potatoe Lasagna" /><published>2020-11-09T03:13:46-06:00</published><updated>2020-11-09T03:13:46-06:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2020/11/09/sweet-potato-lasagna</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2020/11/09/sweet-potato-lasagna.html"></content><author><name>Tamara Temple</name></author><category term="sweet-potatoes" /><category term="ground-turkey" /><category term="tofu-cheese" /><category term="onions" /><category term="garlic" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">The idea for this was taken from a vegan lasagna recipe, but the concept is wonderful as a gluten-free and dairy-free option for a meat-based lasagna.</summary></entry><entry><title type="html">Shrimp (or Prawns) Over Pasta In Tomato Cream Sauce - Redux</title><link href="http://tamouse.github.io//recipes/main-dishes/2020/08/05/shrimp-over-pasta-in-tomato-cream-redux.html" rel="alternate" type="text/html" title="Shrimp (or Prawns) Over Pasta In Tomato Cream Sauce - Redux" /><published>2020-08-05T09:00:29-05:00</published><updated>2020-08-05T09:00:29-05:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2020/08/05/shrimp-over-pasta-in-tomato-cream-redux</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2020/08/05/shrimp-over-pasta-in-tomato-cream-redux.html">&lt;p&gt;Redone to make this gluten-free and dairy-free&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="http://tamouse.github.io//recipes/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tamouse.github.io//recipes/" rel="alternate" type="text/html" /><updated>2020-11-23T12:25:21-06:00</updated><id>http://tamouse.github.io//recipes/</id><title type="html">Tamouse’s Recipe File</title><subtitle>This is a collection of my personal and favourite recipes, collected over the years in various places.</subtitle><author><name>Tamara Temple</name></author><entry><title type="html">BBQ rub</title><link href="http://tamouse.github.io//recipes/sauces/2020/11/23/bbq-rub.html" rel="alternate" type="text/html" title="BBQ rub" /><published>2020-11-23T12:17:00-06:00</published><updated>2020-11-23T12:17:00-06:00</updated><id>http://tamouse.github.io//recipes/sauces/2020/11/23/bbq-rub</id><content type="html" xml:base="http://tamouse.github.io//recipes/sauces/2020/11/23/bbq-rub.html">&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 tablespoon brown sugar&lt;/li&gt;
+  &lt;li&gt;2 teaspoons sea salt or kosher salt&lt;/li&gt;
+  &lt;li&gt;2 teaspoons onion powder&lt;/li&gt;
+  &lt;li&gt;2 teaspoons chili powder&lt;/li&gt;
+  &lt;li&gt;2 teaspoons ground mustard&lt;/li&gt;
+  &lt;li&gt;1 1/2 teaspoons smoked paprika&lt;/li&gt;
+  &lt;li&gt;1 teaspoon dried thyme&lt;/li&gt;
+  &lt;li&gt;1 teaspoon dried oregano&lt;/li&gt;
+  &lt;li&gt;1 teaspoon garlic powder&lt;/li&gt;
+  &lt;li&gt;1 teaspoon freshly ground black pepper&lt;/li&gt;
+  &lt;li&gt;3/4 teaspoon ground cumin&lt;/li&gt;
+  &lt;li&gt;1/2 teaspoon cayenne pepper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Combine all ingredients in a small bowl.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Prepare meat, remove excess fat, remove membranes, etc.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lightly smear the surfaces with mustard to act as a binder.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Spread the rub on all surfaces, pressing into the meat well.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Let the rub sit for a while so it works its way into the meat.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cook meat as you will.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+
+&lt;p&gt;I used this rub for ribs I cooked in the Instant Pot, and they came out amazing.&lt;/p&gt;</content><author><name>Tamara Temple</name></author><category term="rubs" /><summary type="html">Ingredients 1 tablespoon brown sugar 2 teaspoons sea salt or kosher salt 2 teaspoons onion powder 2 teaspoons chili powder 2 teaspoons ground mustard 1 1/2 teaspoons smoked paprika 1 teaspoon dried thyme 1 teaspoon dried oregano 1 teaspoon garlic powder 1 teaspoon freshly ground black pepper 3/4 teaspoon ground cumin 1/2 teaspoon cayenne pepper</summary></entry><entry><title type="html">Marinara Sauce (simple)</title><link href="http://tamouse.github.io//recipes/sauces/2020/11/09/marina-sauce.html" rel="alternate" type="text/html" title="Marinara Sauce (simple)" /><published>2020-11-09T08:49:00-06:00</published><updated>2020-11-09T08:49:00-06:00</updated><id>http://tamouse.github.io//recipes/sauces/2020/11/09/marina-sauce</id><content type="html" xml:base="http://tamouse.github.io//recipes/sauces/2020/11/09/marina-sauce.html"></content><author><name>Tamara Temple</name></author><category term="tomatoes" /><category term="garlic" /><category term="basil" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">A very simple way to make marinara sauce that tastes better than jarred.</summary></entry><entry><title type="html">Sweet Potatoe Lasagna</title><link href="http://tamouse.github.io//recipes/main-dishes/2020/11/09/sweet-potato-lasagna.html" rel="alternate" type="text/html" title="Sweet Potatoe Lasagna" /><published>2020-11-09T03:13:46-06:00</published><updated>2020-11-09T03:13:46-06:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2020/11/09/sweet-potato-lasagna</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2020/11/09/sweet-potato-lasagna.html"></content><author><name>Tamara Temple</name></author><category term="sweet-potatoes" /><category term="ground-turkey" /><category term="tofu-cheese" /><category term="onions" /><category term="garlic" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">The idea for this was taken from a vegan lasagna recipe, but the concept is wonderful as a gluten-free and dairy-free option for a meat-based lasagna.</summary></entry><entry><title type="html">Shrimp (or Prawns) Over Pasta In Tomato Cream Sauce - Redux</title><link href="http://tamouse.github.io//recipes/main-dishes/2020/08/05/shrimp-over-pasta-in-tomato-cream-redux.html" rel="alternate" type="text/html" title="Shrimp (or Prawns) Over Pasta In Tomato Cream Sauce - Redux" /><published>2020-08-05T09:00:29-05:00</published><updated>2020-08-05T09:00:29-05:00</updated><id>http://tamouse.github.io//recipes/main-dishes/2020/08/05/shrimp-over-pasta-in-tomato-cream-redux</id><content type="html" xml:base="http://tamouse.github.io//recipes/main-dishes/2020/08/05/shrimp-over-pasta-in-tomato-cream-redux.html">&lt;p&gt;Redone to make this gluten-free and dairy-free&lt;/p&gt;
 
 &lt;p&gt;Shallots, garlic, wine, tomatoes, and cream make a fabulous fresh
 sauce for prawns (or shrimp) and pasta. It is paired with angel hair
@@ -269,40 +311,4 @@ virtually no flavour.&lt;/p&gt;
   &lt;li class=&quot;task-list-item&quot;&gt;
     &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Turn this into GF and DF.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Tamara Temple</name></author><category term="chicken" /><category term="romaine" /><summary type="html">Makes taking a salad way too easy.</summary></entry><entry><title type="html">Homemade Marshmallows</title><link href="http://tamouse.github.io//recipes/desserts/2020/05/28/homemade-marshmallows.html" rel="alternate" type="text/html" title="Homemade Marshmallows" /><published>2020-05-28T17:09:00-05:00</published><updated>2020-05-28T17:09:00-05:00</updated><id>http://tamouse.github.io//recipes/desserts/2020/05/28/homemade-marshmallows</id><content type="html" xml:base="http://tamouse.github.io//recipes/desserts/2020/05/28/homemade-marshmallows.html">&lt;p&gt;Skip the store and make sweet treats at home with Alton Brown’s Homemade Marshmallows recipe from Good Eats on Food Network.&lt;/p&gt;
-
-&lt;h2 id=&quot;ingredients&quot;&gt;Ingredients&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;3 packages unflavored gelatin&lt;/li&gt;
-  &lt;li&gt;1 cup ice cold water, divided&lt;/li&gt;
-  &lt;li&gt;12 ounces granulated sugar, approximately 1 1/2 cups&lt;/li&gt;
-  &lt;li&gt;1 cup light corn syrup&lt;/li&gt;
-  &lt;li&gt;1/4 teaspoon kosher salt&lt;/li&gt;
-  &lt;li&gt;1 teaspoon vanilla extract&lt;/li&gt;
-  &lt;li&gt;1/4 cup confectioners’ sugar&lt;/li&gt;
-  &lt;li&gt;1/4 cup cornstarch&lt;/li&gt;
-  &lt;li&gt;Nonstick spray&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;directions&quot;&gt;Directions&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Place the gelatin into the bowl of a stand mixer along with 1/2 cup of the water. Have the whisk attachment standing by.&lt;/li&gt;
-  &lt;li&gt;In a small saucepan combine the remaining 1/2 cup water, granulated sugar, corn syrup and salt. Place over medium high heat, cover and allow to cook for 3 to 4 minutes. Uncover, clip a candy thermometer onto the side of the pan and continue to cook until the mixture reaches 240 degrees F, approximately 7 to 8 minutes. Once the mixture reaches this temperature, immediately remove from the heat.&lt;/li&gt;
-  &lt;li&gt;Turn the mixer on low speed and, while running, slowly pour the sugar syrup down the side of the bowl into the gelatin mixture. Once you have added all of the syrup, increase the speed to high. Continue to whip until the mixture becomes very thick and is lukewarm, approximately 12 to 15 minutes. Add the vanilla during the last minute of whipping. While the mixture is whipping prepare the pans as follows.&lt;/li&gt;
-  &lt;li&gt;Combine the confectioners’ sugar and cornstarch in a small bowl. Lightly spray a 13 by 9-inch metal baking pan with nonstick cooking spray. Add the sugar and cornstarch mixture and move around to completely coat the bottom and sides of the pan. Return the remaining mixture to the bowl for later use.&lt;/li&gt;
-  &lt;li&gt;When ready, pour the mixture into the prepared pan, using a lightly oiled spatula for spreading evenly into the pan. Dust the top with enough of the remaining sugar and cornstarch mixture to lightly cover. Reserve the rest for later. Allow the marshmallows to sit uncovered for at least 4 hours and up to overnight.&lt;/li&gt;
-  &lt;li&gt;Turn the marshmallows out onto a cutting board and cut into 1-inch squares using a pizza wheel dusted with the confectioners’ sugar mixture. Once cut, lightly dust all sides of each marshmallow with the remaining mixture, using additional if necessary. Store in an airtight container for up to 3 weeks.&lt;/li&gt;
-  &lt;li&gt;Combine the confectioners’ sugar and cornstarch in a small bowl. Line 4 half sheet pans with parchment paper, spray the paper with nonstick cooking spray and dust with the confectioners’ sugar mixture.&lt;/li&gt;
-  &lt;li&gt;Scoop the mixture into a piping bag fitted with a 1/2-inch round piping tip. Pipe the mixture onto the prepared sheet pans lengthwise, leaving about 1-inch between each strip. Sprinkle the tops with enough of the remaining cornstarch and sugar mixture to lightly cover. Let the strips set for 4 hours or up to overnight.&lt;/li&gt;
-  &lt;li&gt;Cut into 1/2 inch pieces using a pizza wheel or scissors dusted with the confectioners’ sugar mixture. Once cut, lightly dust all sides of each marshmallow with the remaining sugar mixture and store in an airtight container for up to a week.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Prep Time: 35 min&lt;/li&gt;
-  &lt;li&gt;Cook Time: 10 min&lt;/li&gt;
-  &lt;li&gt;Serves: approximately 9 dozen marshmallows or 1 1/2 pounds miniature&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Tamara Temple</name></author><category term="alton-brown" /><category term="gluten-free" /><category term="dairy-free" /><summary type="html">Skip the store and make sweet treats at home with Alton Brown’s Homemade Marshmallows recipe from Good Eats on Food Network.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Tamara Temple</name></author><category term="chicken" /><category term="romaine" /><summary type="html">Makes taking a salad way too easy.</summary></entry></feed>

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "Sweet Potatoe Lasagna"
+title: "Sweet Potato Lasagna, with meat"
 date: 2020-11-09T09:13:46
 categories: [main-dishes]
 tags: [sweet-potatoes, ground-turkey, tofu-cheese, onions, garlic, gluten-free, dairy-free]

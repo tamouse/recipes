@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sweet Potato Lasagne
+title: Vegan Sweet Potato Lasagna
 date: 2020-05-28T10:47
 categories: ["main-dishes"]
 tags: ["gluten-free", "dairy-free", "sweet-potatoes", "onions", "garlic", "quinoa", "red-lentils", "white-beans"]

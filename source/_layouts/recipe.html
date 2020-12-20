@@ -2,9 +2,9 @@
 layout: post
 ---
 
-<div id="{{ page.slug }}" class="recipe_entry">
+<article id="{{ page.slug }}" class="recipe_entry">
 
-  {% if page.excerpt %}<p id="excerpt">{{page.excerpt}}</p>{% endif %}
+  {% if page.excerpt %}<p id="excerpt">{{page.excerpt | markdownify }}</p>{% endif %}
 
   {% if page.ingredients %}
   <h3>Ingredients</h3>
@@ -19,7 +19,7 @@ layout: post
   <h3>Direcctions</h3>
   <ol>
     {% for step in page.directions %}
-    <li>{{ step }}</li>
+    <li>{{ step | markdownify | remove: '<p>' | remove: '</p>' | lstrip | rstrip  }}</li>
     {% endfor %}
   </ol>
   {% endif %}
@@ -30,4 +30,4 @@ layout: post
   <p>{{ note | markdownify }}</p>
   {% endfor %}
   {% endif %}
-</div> 
+</article> 

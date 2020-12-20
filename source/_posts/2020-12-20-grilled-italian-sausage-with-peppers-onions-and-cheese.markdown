@@ -3,8 +3,7 @@ layout: recipe
 title: Grilled Italian Sausage with peppers, onions, and cheese
 date: 2020-12-20T14:54
 categories: ["main-dishes"]
-tags: ["italian-sausage", "sausage", "onions", "peppers", "cheese", "vegan-chees", "grilled", "gluten-free", "dairy-free"]
-source: somewhere on tiktok
+tags: ["italian-sausage", "sausage", "onions", "peppers", "cheese", "vegan-cheese", "grilled", "gluten-free", "dairy-free"]
 excerpt: >-
   I found this way to make these deliious italian sausages on tiktok; I can't remember the creator, but she has a lot
   of great recipes, tips, and ideas.

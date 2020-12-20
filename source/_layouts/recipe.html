@@ -27,7 +27,7 @@ layout: post
   {% if page.notes %}
   <h3>Notes</h3>
   {% for note in page.notes %}
-  <p>{{ note }}</p>
+  <p>{{ note | markdownify }}</p>
   {% endfor %}
   {% endif %}
 </div> 

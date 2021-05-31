@@ -2,11 +2,11 @@
 layout: post
 title: "Bacon Pea Salad"
 date: 2020-05-28T01:40
-categories: [Salads]
+categories: [salads]
 tags: [peas, bacon, cheddar, ranch]
 source: https://www.tasteofhome.com/recipes/bacon-pea-salad/
 ---
-
+A super refreshing summer salad, great for cookouts, backyard parties, potlucks. *Not dairy-free in this form.*
 
 
 # Bacon Pea Salad #

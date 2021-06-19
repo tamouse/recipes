@@ -16,7 +16,7 @@ a:hover { color: #BE57FF; }
 
 a:visited { color: #510580; }
 
-img.img-responsive { display: block; width: 100%; padding: 10px; margin: 10px; }
+img, img.img-responsive { display: block; width: 100%; padding: 10px; margin: 10px; }
 
 img.brand-logo { display: inline; max-width: 30px; height: auto; margin: 0; padding: 0; line-break: inherit; }
 

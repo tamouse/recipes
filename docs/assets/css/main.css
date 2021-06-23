@@ -32,6 +32,8 @@ img.brand-logo { display: inline; max-width: 30px; height: auto; margin: 0; padd
 
 .navbar > .navmenu > * { margin-left: 10px; }
 
+.page-footer.navbar { justify-content: space-between; }
+
 .page-content { flex: 8; }
 
 .recipe-grid { display: grid; grid-gap: 10px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); background-color: #dfc4b5; color: #444; }
@@ -49,5 +51,9 @@ img.brand-logo { display: inline; max-width: 30px; height: auto; margin: 0; padd
 .gallery-grid { display: grid; grid-gap: 10px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
 
 .gallery-grid-item img { display: block; max-width: 100%; }
+
+.flex-space-between { display: flex; align-content: center; justify-content: space-between; }
+
+.flex-row { flex-direction: row; }
 
 /*# sourceMappingURL=main.css.map */

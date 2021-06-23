@@ -104,6 +104,10 @@ img.brand-logo {
   }
 }
 
+.page-footer.navbar {
+  justify-content: space-between;
+}
+
 .page-content {
   flex: 8;
 }
@@ -164,4 +168,14 @@ img.brand-logo {
     display: block;
     max-width: 100%;
   }
+}
+
+.flex-space-between {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+}
+
+.flex-row {
+  flex-direction: row;
 }

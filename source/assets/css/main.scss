@@ -48,9 +48,9 @@ a:visited {
   color: $dark;
 }
 
-img.img-responsive {
+img, img.img-responsive {
   display: block;
-  width: 100%;
+  max-width: 100%;
   padding: 10px;
   margin: 10px;
 }

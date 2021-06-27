@@ -2,7 +2,7 @@
 layout: recipe
 title: Garlic-Herb Burst Tomatoes
 date: 2020-12-24T17:00
-categories: [Condiments]
+categories: [condiments]
 tags: ["cherry-tomatoes", "garlic", "basil", "oregano", "condiment", "dairy-free", "gluten-free"]
 source: https://www.blissfulbasil.com/garlic-herb-burst-tomatoes/#wprm-recipe-container-33248
 excerpt: >-

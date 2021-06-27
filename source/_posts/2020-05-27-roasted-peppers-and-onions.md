@@ -2,7 +2,7 @@
 layout: post
 title: "Roasted Peppers and Onions"
 date: 2020-05-28T01:46
-categories: [Condiments]
+categories: [condiments]
 tags: [bell-pepper, onion]
 source: https://www.knowyourproduce.com/roasted-peppers-and-onions/
 ---

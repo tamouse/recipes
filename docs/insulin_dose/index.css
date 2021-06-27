@@ -1,0 +1,41 @@
+html, body {
+  font-family: sans-serif;
+  font-size: 17px;
+}
+
+header {
+  width: fit-content;
+  margin: auto;
+  text-align: center;
+}
+
+tr {
+  vertical-align: top;
+}
+
+#calculator {
+  width: fit-content;
+  margin: auto;
+}
+
+#buttons {
+  width: fit-content;
+  margin: 1rem auto;
+  text-align: center;
+}
+
+#calc-button {
+  font-size: 1.2rem;
+}
+
+#dosage {
+  width: fit-content;
+  margin: 1rem auto;
+  text-align: center;
+}
+
+#insulin-dose {
+  display: block;
+  font-size: 250%;
+  padding: 10px;
+}
